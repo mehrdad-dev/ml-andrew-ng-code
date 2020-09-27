@@ -1,0 +1,65 @@
+baseURL = "https://mehrdad-dev.github.io/ml-andrew-ng/"
+languageCode = "en-us"
+title = "Machine Learning Andrew Ng"
+googleAnalytics = "UA-178021131-1"
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
+
+[params]
+  # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
+  # Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  # Author of the site, will be used in meta information
+  author = "Mehrdad Mohammadian"
+  # Description of the site, will be used in meta information
+  description = "دوره یادگیری ماشین دانشگاه استنفورد به فارسی"
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = true
+  # Disable search function. It will hide search bar
+  disableSearch = false
+  # Javascript and CSS cache are automatically busted when new version of site is generated.
+  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+  disableAssetsBusting = true
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it.
+  disableShortcutsTitle = false
+  # When using mulitlingual website, disable the switch language button.
+  disableLanguageSwitchingButton = false
+  # Hide breadcrumbs in the header and only show the current page title
+  disableBreadcrumb = false
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = false
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby = "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "blue"
+  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+  custom_css = ["css/foo.css", "css/bar.css"]
+  
+  # editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-instagram'></i> اینستاگرام"
+identifier = "instagram"
+url = "https://instagram.com/ai.eng"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-youtube'></i>  یوتیوب"
+identifier = "youtube"
+url = "#"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> گیت هاب"
+identifier = "github"
+url = "https://github.com/mehrdad-dev/ml-andrew-ng"
+weight = 12
+

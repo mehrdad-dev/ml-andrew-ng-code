@@ -11,8 +11,7 @@ author: Mehrdad Mohammadian
 
 **در حال تکمیل است ...** 
 
-![vote](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/cover-course.png?width=40pc)
-
+![cover cource](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/cover-course.png?width=40pc)
 
 این دوره به طور رایگان توسط پروفسور [Andrew Ng](https://www.coursera.org/instructor/andrewng) استاد دانشگاه استنفورد تهیه شده است، و ما اینجا به طور خلاصه و مفید این دوره ارزشمند را به فارسی روان قرار داده ایم.
 

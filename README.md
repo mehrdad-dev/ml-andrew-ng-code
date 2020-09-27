@@ -12,6 +12,24 @@
 https://mehrdad-dev.github.io/ml-andrew-ng
 
 
+## راه اندازی
+- نصب Hugo:
+
+
+https://gohugo.io/getting-started/installing
+
+
+- fork repo
+- اجرا:
+
+دستور زیر را در پوشه اصلی پروژه اجرا کنید.
+<div dir=ltr align="left">
+
+```
+hugo serve
+```
+</div>
+
 ## مشارکت
 برای مشارکت در این کار ابتدا این ریپو را fork کنید،
 و پس از انجام تغییرات خود یک pull request ایجاد کنید.

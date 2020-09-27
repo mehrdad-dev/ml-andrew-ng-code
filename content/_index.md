@@ -32,6 +32,7 @@ author: Mehrdad Mohammadian
 ### مشارکت
 
 **مخزن گیت هاب سورس کد وب سایت برای مشارکت:**
+
 https://github.com/mehrdad-dev/ml-andrew-ng-code
 
 اگر علاقه به مشارکت در این کار دارید از قبیل:

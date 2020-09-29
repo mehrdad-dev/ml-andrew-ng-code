@@ -1269,4 +1269,6 @@ code.has-jax {
 
 .page-description {
     text-align:center;
+    margin-top: -35px;
+    margin-bottom: 40px;
 }

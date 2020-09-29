@@ -2,6 +2,10 @@
 
 # سورس کد دوره یادگیری ماشین دانشگاه استنفورد به فارسی
 
+Languages 
+[🇬🇧](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/README-EN.md) &nbsp;
+[🇮🇷](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/README.md)
+
 در این ریپو سورس کد وب سایت [دوره یادگیری ماشین دانشگاه استنفورد به فارسی ](https://mehrdad-dev.github.io/ml-andrew-ng
 )  برای مشارکت های شما در کامل تر کردن مطالب نگه داری می‌شود.
 

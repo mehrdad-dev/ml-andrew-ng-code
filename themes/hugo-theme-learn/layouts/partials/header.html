@@ -37,7 +37,7 @@
 
   <script src="{{"js/jquery-3.3.1.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
 
-  <style>
+  <!-- <style>
     :root #header+#content>#left>#rlblock_left {
       display: none !important;
     }
@@ -57,7 +57,8 @@
         end
       }
     }
-  </style>
+  </style> -->
+  
   <!-- {{ template "_internal/google_analytics.html" . }} -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178021131-1"></script>
@@ -68,6 +69,9 @@
 
     gtag('config', 'UA-178021131-1');
   </script>
+
+  <!-- Place this tag in your head or just before your close body tag. -->
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
 
   {{ partial "custom-header.html" . }}
 </head>

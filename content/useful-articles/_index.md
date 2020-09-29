@@ -27,7 +27,10 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Yann LeCun](https://twitter.com/ylecun)
 - [Alfredo Canziani](https://twitter.com/alfcnz)
 
-### کانال های مفید تلگرامی
+### کانال های تلگرام
+
+### کانال های یوتیوب
+
 
 ### دوره های مفید دیگر
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)

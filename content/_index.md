@@ -25,6 +25,11 @@ author: Mehrdad Mohammadian
 
 2. [دسترسی به دوره از طریق کورسرا](https://www.coursera.org/learn/machine-learning?)
 
+ریپو زیرنویس های این دوره به فارسی:
+
+https://github.com/BahramJannesar/AndrewNgMachineLearningCoursePersianSubtitle
+
+
 **میزان رضایت شرکت کنندگان دوره در سایت کورسرا:**
 ![vote](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/image1.png?width=15pc)
 

@@ -15,6 +15,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "nargesrzn",
+      "name": "nargesrzn",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59249853?v=4",
+      "profile": "http://nargesrzn.github.io/my-website",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

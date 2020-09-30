@@ -62,4 +62,8 @@ https://github.com/mehrdad-dev/ml-andrew-ng
 [mehrdad.mohammadian.contact@gmail.com](mailto:mehrdad.mohammadian.contact@gmail.com)
 
 
+## مجوز
+[LICENSE](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/LICENSE)
+
+
 </div>

@@ -57,7 +57,7 @@ http://localhost:1313/ml-andrew-ng/
 
 https://github.com/mehrdad-dev/ml-andrew-ng
 
-برای ارتباط بیشتر با آدرس ایمیل در ارتباط باشید:
+برای اطلاعات بیشتر با آدرس ایمیل زیر در ارتباط باشید:
 
 [mehrdad.mohammadian.contact@gmail.com](mailto:mehrdad.mohammadian.contact@gmail.com)
 

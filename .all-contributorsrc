@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mehrdad-dev",
+      "name": "mehrdad mohammadian",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40211374?v=4",
+      "profile": "https://github.com/mehrdad-dev",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ml-andrew-ng-code",
+  "projectOwner": "mehrdad-dev",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -7,7 +7,7 @@ weight : 1
 author: Mehrdad Mohammadian
 ---
 
-## دوره یادگیری ماشین دانشگاه استنفورد 
+## دوره یادگیری ماشین دانشگاه استنفورد به فارسی
 
 **در حال تکمیل است ...** 
 
@@ -25,19 +25,20 @@ author: Mehrdad Mohammadian
 
 2. [دسترسی به دوره از طریق کورسرا](https://www.coursera.org/learn/machine-learning?)
 
-ریپو زیرنویس های این دوره به فارسی:
-
-https://github.com/BahramJannesar/AndrewNgMachineLearningCoursePersianSubtitle
+[ریپو زیرنویس های این دوره به فارسی کلیک کن](https://github.com/BahramJannesar/AndrewNgMachineLearningCoursePersianSubtitle)
 
 
 **میزان رضایت شرکت کنندگان دوره در سایت کورسرا:**
+
 ![vote](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/image1.png?width=15pc)
+
+
+<!-- ----------------------------------------------------------------------------- -->
 
 ### مشارکت
 
-**مخزن گیت هاب سورس کد وب سایت برای مشارکت:**
+[گیت هاب سورس کد وب سایت برای مشارکت کلیک کن](https://github.com/mehrdad-dev/ml-andrew-ng-code)
 
-https://github.com/mehrdad-dev/ml-andrew-ng-code
 
 اگر علاقه به مشارکت در این کار دارید از قبیل:
 - کامل تر کردن محتوای مطالب
@@ -46,6 +47,7 @@ https://github.com/mehrdad-dev/ml-andrew-ng-code
 
 لطفا دستور العمل های مربوطه را برای مشارکت مطالعه کنید،
 و برای ارتباط بیشتر به آدرس زیر ایمیل بزنید:
+
 [mehrdad.mohammadian.contact@gmail.com](mailto:mehrdad.mohammadian.contact@gmail.com)
 
 به پاس قدردانی از مشارکت شما برای تولید محتوای آزاد و کمک به جامعه فارسی زبان در صفحه درباره از شما تشکر خواهد شد.

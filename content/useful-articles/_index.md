@@ -5,7 +5,15 @@ weight = 30
 pre = "<i class='fa fa-plus-square' ></i>"
 +++
 
-این صفحه در حال ویرایش و کامل شدن است ...
+**این صفحه در حال ویرایش و کامل شدن است ...**
+
+لیست منابع موجود:
+- [صفحات اجتماعی افراد تاثیر گذار](http://localhost:1313/ml-andrew-ng/useful-articles/#صفحات-اجتماعی-افراد-تاثیر-گذار)
+
+- [کانال های تلگرام](http://localhost:1313/ml-andrew-ng/useful-articles/#کانال-های-تلگرام)
+- [کانال های یوتیوب](http://localhost:1313/ml-andrew-ng/useful-articles/#کانال-های-یوتیوب)
+- [دوره های مفید دیگر](http://localhost:1313/ml-andrew-ng/useful-articles/#دوره-های-مفید-دیگر)
+
 
 ### صفحات اجتماعی افراد تاثیر گذار
 

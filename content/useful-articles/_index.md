@@ -9,10 +9,10 @@ pre = "<i class='fa fa-plus-square' ></i>"
 
 لیست منابع موجود:
 - [صفحات اجتماعی افراد تاثیر گذار](http://localhost:1313/ml-andrew-ng/useful-articles/#صفحات-اجتماعی-افراد-تاثیر-گذار)
-
 - [کانال های تلگرام](http://localhost:1313/ml-andrew-ng/useful-articles/#کانال-های-تلگرام)
 - [کانال های یوتیوب](http://localhost:1313/ml-andrew-ng/useful-articles/#کانال-های-یوتیوب)
 - [دوره های مفید دیگر](http://localhost:1313/ml-andrew-ng/useful-articles/#دوره-های-مفید-دیگر)
+- [وب سایت ها و وبلاگ ها](http://localhost:1313/ml-andrew-ng/useful-articles/#وب-سایت-ها-و-وبلاگ-ها)
 
 
 ### صفحات اجتماعی افراد تاثیر گذار
@@ -39,6 +39,7 @@ pre = "<i class='fa fa-plus-square' ></i>"
 
 ### کانال های یوتیوب
 
+### وب سایت ها و وبلاگ ها
 
 ### دوره های مفید دیگر
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)

@@ -43,7 +43,8 @@ theme = "hugo-theme-learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-
+[markup.goldmark.renderer]
+unsafe= true
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-instagram'></i> اینستاگرام"

@@ -1,7 +1,7 @@
 +++
 title = "درباره "
 date =  2020-09-10T17:16:09+04:30
-weight = 40
+weight = 45
 pre = "<i class='fa fa-info' ></i>"
 +++
 

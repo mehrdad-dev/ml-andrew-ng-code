@@ -1,21 +1,26 @@
 +++
 title =  "منابع مفید "
 date = 2020-09-10T17:04:49+04:30
-weight = 30
+weight = 35
 pre = "<i class='fa fa-plus-square' ></i>"
 +++
 
 **این صفحه در حال ویرایش و کامل شدن است ...**
 
 لیست منابع موجود:
-- [صفحات اجتماعی افراد تاثیر گذار](http://localhost:1313/ml-andrew-ng/useful-articles/#صفحات-اجتماعی-افراد-تاثیر-گذار)
-- [کانال های تلگرام](http://localhost:1313/ml-andrew-ng/useful-articles/#کانال-های-تلگرام)
-- [کانال های یوتیوب](http://localhost:1313/ml-andrew-ng/useful-articles/#کانال-های-یوتیوب)
-- [دوره های مفید دیگر](http://localhost:1313/ml-andrew-ng/useful-articles/#دوره-های-مفید-دیگر)
-- [وب سایت ها و وبلاگ ها](http://localhost:1313/ml-andrew-ng/useful-articles/#وب-سایت-ها-و-وبلاگ-ها)
+- [افراد تاثیر گذار](#افراد-تاثیر-گذار)
+- کانال ها و صفحات اجماعی:
+    - [تلگرام](#تلگرام)
+    - [یوتیوب](#یوتیوب)
+    - [توییتر](#توییتر)
+    - [اینستاگرام](#اینستاگرام)
+- [وب سایت ها و وبلاگ ها](#وب-سایت-ها-و-وبلاگ-ها)
+- دوره های مفید دیگر:
+    - [Deep Learning](#deep-learning)
+    - [Data Science](#data-science)
 
 
-### صفحات اجتماعی افراد تاثیر گذار
+### افراد تاثیر گذار
 
 لیستی از صفحات اجتماعی افراد تاثیر گذار فارسی  زبان در حوزه هوش مصنوعی و دیتاساینس به ترتیب الفبا:
 
@@ -35,11 +40,18 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Yann LeCun](https://twitter.com/ylecun)
 - [Alfredo Canziani](https://twitter.com/alfcnz)
 
-### کانال های تلگرام
+### تلگرام
 
-### کانال های یوتیوب
+### یوتیوب
+
+### توییتر
+
+### اینستاگرام
+
 
 ### وب سایت ها و وبلاگ ها
 
-### دوره های مفید دیگر
+### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)
+
+### Data Science

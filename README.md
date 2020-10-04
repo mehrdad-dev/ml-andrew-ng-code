@@ -18,7 +18,7 @@ https://mehrdad-dev.github.io/ml-andrew-ng
 
 
 ## دستور العمل مشارکت
-لطفا برای مشارکت از لینک زیر دستور العمل راه مطالعه کنید:
+لطفا برای مشارکت از لینک زیر دستور العمل را مطالعه کنید:
 
 [کلیک کنید](https://github.com/mehrdad-dev/ml-andrew-ng-code/wiki/%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA)
 

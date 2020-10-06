@@ -41,10 +41,27 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Alfredo Canziani](https://twitter.com/alfcnz)
 
 ### تلگرام
+- [اطلاع رسانی از رویداد های حوزه هوش مصنوعی](https://t.me/AI_Events)
+- [هوش مصنوعی و برنامه نویسی پایتون](https://t.me/ai_python)
+- [Recommender Systems](https://t.me/Recommender_System)
+- [آموزش هوش مصنوعی](https://t.me/AI_Lessons)
+- [دستاوردهای یادگیری عمیق(InTec)](https://t.me/pytens)
+- [Tensorflow(@CVision)](https://t.me/cvision)
+- [School of AI](https://t.me/schoolofai)
+- [NLP stuff](https://t.me/nlp_stuff)
+- [Pythonic AI](https://t.me/pythonicAI)
+- [کتابخانه هوش مصنوعی](https://t.me/ailib)
+- [arXiv](https://t.me/ai_python_arxiv)
 
 ### یوتیوب
+- [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+- [Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+- [Seyed Naser Razavi](https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ)
+- [Alexander Amini](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
+- [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 
 ### توییتر
+
 
 ### اینستاگرام
 

@@ -48,11 +48,13 @@ author: Mehrdad Mohammadian
 <button class="button" ><i class='fab fa-fw fa-github''></i> گیت هاب وب سایت برای مشارکت
 </button>
 </a>
+
 <br>
-<a href="https://github.com/BahramJannesar/AndrewNgMachineLearningCoursePersianSubtitle">
+
+<!-- <a href="https://github.com/BahramJannesar/AndrewNgMachineLearningCoursePersianSubtitle">
 <button class="button" ><i class='fab fa-fw fa-github''></i> گیت هاب زیرنویس های این دوره به فارسی
 </button>
-</a>
+</a> -->
 
 
 

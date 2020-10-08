@@ -1,4 +1,4 @@
-### Stanford University Machine Learning Course Source Code in Persian
+# Stanford University Machine Learning Course Source Code in Persian
 
 [🇬🇧](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/README-EN.md) &nbsp;
 [🇮🇷](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/README.md) &nbsp;
@@ -7,11 +7,11 @@
  in this repo we kept the source code of website [machine learning course in Persian](https://mehrdad-dev.github.io/ml-andrew-ng), for your contribution in complete this work.
 
 
-### Website
+## Website
 https://mehrdad-dev.github.io/ml-andrew-ng
 
 
-### Contributors
+## Contributors
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mehrdad-dev"><img src="https://avatars2.githubusercontent.com/u/40211374?v=4" width="100px;" alt=""/><br /><sub><b>mehrdad mohammadian</b></sub></a><br /><a href="https://github.com/mehrdad-dev/ml-andrew-ng-code/commits?author=mehrdad-dev" title="Code">💻</a> <a href="#content-mehrdad-dev" title="Content">🖋</a> <a href="https://github.com/mehrdad-dev/ml-andrew-ng-code/pulls?q=is%3Apr+reviewed-by%3Amehrdad-dev" title="Reviewed Pull Requests">👀</a> <a href="" title="mentoring">🧑‍🏫 </a> </td>
@@ -20,5 +20,5 @@ https://mehrdad-dev.github.io/ml-andrew-ng
   </tr>
 </table>
 
-### LICENSE
+## LICENSE
 [LICENSE](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/LICENSE)

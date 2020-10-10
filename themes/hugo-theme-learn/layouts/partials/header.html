@@ -10,7 +10,7 @@
   {{ hugo.Generator }}
   {{ partial "meta.html" . }}
   {{ partial "favicon.html" . }}
-  <title>{{ .Title }} :: {{ .Site.Title }}</title>
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
 
   {{ $assetBusting := not .Site.Params.disableAssetsBusting }}
   <link href="{{"css/nucleus.css" | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
@@ -37,27 +37,6 @@
 
   <script src="{{"js/jquery-3.3.1.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
 
-  <!-- <style>
-    :root #header+#content>#left>#rlblock_left {
-      display: none !important;
-    }
-
-      {
-        {
-        if .Site.Params.disableInlineCopyToClipBoard
-      }
-    }
-
-    :not(pre)>code+span.copy-to-clipboard {
-      display: none;
-    }
-
-      {
-        {
-        end
-      }
-    }
-  </style> -->
   
   <!-- {{ template "_internal/google_analytics.html" . }} -->
   <!-- Global site tag (gtag.js) - Google Analytics -->

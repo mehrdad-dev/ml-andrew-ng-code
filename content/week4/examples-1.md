@@ -2,12 +2,8 @@
 title: "مثال ها قسمت اول"
 date: 2020-09-27
 draft: false
-# authors: [مهرداد محمدیان,علی]
-# authursLinks: [https://github.com/mehrdad-dev, https://github.com/mehrdad-dev]
 weight: 50
 ---
-
-[مهرداد محمدیان]: https://github.com/mehrdad-dev
 
 ### عملگر منطقی AND
 یک مثال ساده از کاربرد شبکه های عصبی پیش بینی
@@ -41,3 +37,16 @@ $$
 ![image19.png](../images/image19.png?width=40pc)
 
 ### عملگر منطقی OR
+عملگر OR شبیه به AND است، اما فقط نیاز داریم که وزن نود بایاس را به 
+$-10$ تغییر دهیم:
+
+![image20.png](../images/image20.png?width=40pc)
+
+![image21.png](../images/image21.png?width=40pc)
+
+### عملگر منطقی NAND
+![image22.png](../images/image22.png?width=40pc)
+
+
+### عملگر منطقی NOT
+![image23.png](../images/image23.png?width=40pc)

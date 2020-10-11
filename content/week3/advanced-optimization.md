@@ -20,22 +20,29 @@ $$
 
 تابعی می‌نویسیم که هر دو این مقادیر را بر گرداند:
 
+<div align="left">
 
-``` matlab
+```
 function [jVal, gradient] = costFunction(theta)
-  jVal = [...code to compute J(theta)...];
-  gradient = [...code to compute derivative of J(theta)...];
+  ;jVal = [...code to compute J(theta)...]
+  ;gradient = [...code to compute derivative of J(theta)...]
 end
 ```
+
+</div>
 
 سپس می‌توانیم از الگوریتم بهینه سازی ()fminunc در اکتاو به همراه تابع ()optimset برای ساخت یک
 object شامل تنظیمات و گزینه هایی که می‌خواهیم به عنوان ورودی به تابع ()fminunc بدهیم.
 
-``` matlab
-options = optimset('GradObj', 'on', 'MaxIter', 100);
-initialTheta = zeros(2,1);
-   [optTheta, functionVal, exitFlag] = fminunc(@costFunction, initialTheta, options);
+<div align="left">
+
 ```
+;options = optimset('GradObj', 'on', 'MaxIter', 100)
+;initialTheta = zeros(2,1)
+   ;[optTheta, functionVal, exitFlag] = fminunc(@costFunction, initialTheta, options)
+```
+
+</div>
 
 به عنوان ورودی به تابع ()fminunc:
 

@@ -6,7 +6,7 @@ pre = "<i class='fa fa-graduation-cap ' ></i>"
 +++
 
 این هفته با رگرسیون لجستیک یا همان Logistic regression آشنا می‌شویم که
-برای طبقه بندی یا classifying از آن استفاده می‌کنیم.
+برای طبقه بندی یا classification از آن استفاده می‌کنیم.
 
 هم چنین با regularization یا منظم سازی برای مدل مان آشنا می‌شویم،
 تا با استفاده از آن از مشکل overfitting پرهیز کنیم.

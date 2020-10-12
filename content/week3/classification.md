@@ -71,7 +71,7 @@ $$ h_\theta(x)  = P (y=1 | x;\theta) =  1 - P (y = 0 | x;\theta) $$
 $$ P (y=0 | x;\theta) + P (y=1 | x;\theta) = 1 $$
 
 
-### Decision Boundry 
+### Decision Boundary 
 
 برای مجزا کردن کلاس های $0$ و $1$ طبقه بندی باید
 خروجی تابع فرضیه را به این صورت تبدیل کنیم:

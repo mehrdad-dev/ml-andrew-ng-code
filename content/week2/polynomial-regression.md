@@ -27,7 +27,7 @@ $$ {\color{Green} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2 + \thet
 
 ![image79.png](../images/image79.png?width=25pc)
 
-همچنین می‌توانیم از نمودار ریشه دوم یا squaer root 
+همچنین می‌توانیم از نمودار ریشه دوم یا square root 
 استفاده کنیم:
 
 $$ h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 \sqrt{x}$$

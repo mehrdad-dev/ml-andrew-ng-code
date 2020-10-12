@@ -1,7 +1,7 @@
 +++
 title = "سوالات متداول افراد "
 date =  2020-10-03T13:28:44+03:30
-weight = 65
+weight = 70
 pre = "<i class='fa fa-question' ></i>"
 +++
 

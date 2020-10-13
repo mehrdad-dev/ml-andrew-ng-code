@@ -60,7 +60,11 @@ author: Mehrdad Mohammadian
 
 **و برای ارتباط بیشتر**
 <a href="mailto:mehrdad.mohammadian.contact@gmail.com">
-<button class="button" ><i class='fa fa-mail-bulk' ></i> ایمیل بزنید!
+<button class="button" ><i class='fa fa-envelope' ></i> ایمیل بزنید!
+</button>
+</a>
+<a href="https://github.us2.list-manage.com/subscribe/post?u=e2b1b19b484d54a68a57c1945&amp;id=e971ad7c22">
+<button class="button" ><i class='fa fa-at' ></i> اشتراک خبرنامه
 </button>
 </a>
 

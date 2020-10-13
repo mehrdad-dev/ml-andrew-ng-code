@@ -1,7 +1,7 @@
 +++
 title =  "منابع مفید "
 date = 2020-09-10T17:04:49+04:30
-weight = 35
+weight = 75
 pre = "<i class='fa fa-plus-square' ></i>"
 +++
 
@@ -64,12 +64,6 @@ pre = "<i class='fa fa-plus-square' ></i>"
 
 
 ### اینستاگرام
-
-<!-- 
-### لایو های ضبط شده
-
-- [تفاوت‌ها و شباهت های کار به عنوان دیتاساینتیست در آلمان و سوئیس](https://www.instagram.com/tv/CCMHMhcqhi9)
-- [گفت و گو با مهندس علیرضا اخوان‌پور در رابطه با فریم ورک‌های یادگیری عمیق](https://www.instagram.com/p/CB3TgLjgchN/) -->
 
 ### وب سایت ها و وبلاگ ها
 

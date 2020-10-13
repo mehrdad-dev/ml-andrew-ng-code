@@ -5,7 +5,7 @@ draft: false
 weight : 50
 ---
 
-### Polynomial Regression
+### Polynomial Regression | رگرسیون چند جمله ای
 
 تابع فرضیه $h$ می‌تواند خطی نباشد، اگر تناسب خوبی
 با داده های ما ندارد، 
@@ -14,7 +14,7 @@ weight : 50
 
 فرض کنید که تابع فرضیه ما $ h_\theta(x) = \theta_0 + \theta_1 x_1$ باشد
 بنابراین می‌توانیم ویژگی جدیدی بر پایه ویژگی $x_1$
-اضافه کنیم تا به تابعی quadratic یا درجه دوم برسیم:
+اضافه کنیم تا به تابعی quadratic یا درجه دو برسیم:
 
 $$ {\color{Blue} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2}$$
 

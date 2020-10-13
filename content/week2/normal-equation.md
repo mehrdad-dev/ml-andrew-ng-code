@@ -5,7 +5,7 @@ draft: false
 weight : 60
 ---
 
-### Normal Equation
+### Normal Equation | معادله نرمال
 
 الگوریتم گرادیان کاهشی روشی بود برای مینیمم کردن
 تابع $J$ ، اما روش دومی نیز وجود دارد که بدون داشتن
@@ -24,7 +24,7 @@ $$ \frac{\partial} {\partial x} J(\theta)  \overset{\underset{\mathrm{set}}{}}{=
 ![image80.png](../images/image80.png?width=13pc)
 
 اما مسئله ای که برای ما جالب است $\theta$ یک عدد حقیقی
-نیست، بلکه یک وکتور در ابعدا 1+n  است:
+نیست، بلکه یک بردار در ابعدا 1+n  است:
 
 ![image81.png](../images/image81.png?width=33pc)
 

@@ -5,7 +5,7 @@ weight = 65
 pre = "<i class='fa fa-book' ></i>"
 +++
 
-فهرست تمام لغات تخصصی که در این ترجمه این دوره استفاده شده است در این قسمت موجود است،
+فهرست تمام لغات تخصصی که در ترجمه دوره استفاده شده در این قسمت موجود است،
 لطفا اگر پیشنهاد بهتری برای هر کدام دارید مشارکت کنید.
 
 راهنما:
@@ -26,7 +26,7 @@ pre = "<i class='fa fa-book' ></i>"
 |   hypothesis              |             فرضیه            |
 |        cost function      |      تابع هزینه              |
 |             parametr      |               پارامتر        |
-|  squared error function   |  تابع خظای مجذور             |
+|  squared error function   |  تابع خطای مجذور             |
 |     contour plot          |          نمودار کانتور       |
 |    gradient descent       |    گرادیان کاهشی             |
 |      convex               |        محدب                  |
@@ -88,4 +88,6 @@ pre = "<i class='fa fa-book' ></i>"
 |      test set             |    مجموعه آزمون              |
 |   misclassification       |        طبقه بندی غلط         |
 |    training example       |      نمونه آموزشی            |
+|     debugging gradient    |      اشکال زدایی گرادیان     |
+|     predictor             |       پیش بینی کننده         |
 |                           |                              |

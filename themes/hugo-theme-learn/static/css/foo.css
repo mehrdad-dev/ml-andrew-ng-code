@@ -1,0 +1,14 @@
+div.notices p:first-child:before {
+  position: absolute;
+  top: 2px;
+  right: 10px;
+}
+div.notices p:first-child:after {
+  position: absolute;
+  top: 2px;
+  right: 2rem;
+}
+
+#shortcuts h4 {
+  padding-right: 1rem;
+}

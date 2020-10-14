@@ -6,7 +6,7 @@ weight : 10
 author: Mehrdad Mohammadian
 ---
 
-**دو تعریف از یادگیری ماشین ارائه شده است:**
+**دو تعریف از <span class="top-dict" data-tipso="Machine Learning">یادگیری ماشین</span> ارائه شده است:**
 
 > **Arthur Samuel**: رشته مطالعاتی که به کامپیوتر ها این توانایی را می‌دهد
 که بدون برنامه نویسی صریح یاد بگیرند.
@@ -37,6 +37,10 @@ author: Mehrdad Mohammadian
 | P | احتمال اینکه برنامه در بازی بعد برنده شود |
 
 به طور کلی هر مسئله یادگیری ماشین را میتوان به
-دو دسته **با نظارت** و **بدون نظارت** تقسیم کرد.
+دو دسته 
+**<span class="top-dict" data-tipso="supervised learning">یادگیری با نظارت</span>**
+ و 
+**<span class="top-dict" data-tipso="unsupervised learning">یادگیری بدون نظارت</span>**
+تقسیم کرد.
 
 </body>

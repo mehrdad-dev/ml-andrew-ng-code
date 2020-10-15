@@ -69,16 +69,16 @@ pre = "<i class='fa fa-book' ></i>"
 |                       unit |                         واحد |
 |        activation function |               تابع فعال سازی |
 |           activation units |           واحد های فعال سازی |
-|                input layer |                   لایه ورودی |
-|               output layer |                   لایه خروجی |
-|              hidden layers |                   لایه پنهان |
+|                input layer |                   لایه ورودی  |
+|               output layer |                   لایه خروجی  |
+|              hidden layers |                   لایه پنهان  |
 |               element-wise |                 عنصر به عنصر |
 |                       node |                          گره |
-|                      class |                         کلاس |
+|                      class |                         کلاس  |
 |           nested summation |                 جمع تو در تو |
 |            backpropagation |                    پس انتشار |
 |                accumulator |                     انباشتگر |
-|             non-multiclass |                غیر چند کلاسه |
+|             non-multiclass |                غیر چند کلاسه  |
 |                     unroll |                     باز کردن |
 |          gradient checking |                بررسی گرادیان |
 |                    epsilon |                      اپسیلون |
@@ -90,4 +90,8 @@ pre = "<i class='fa fa-book' ></i>"
 |           training example |                 نمونه آموزشی |
 |         debugging gradient |          اشکال زدایی گرادیان |
 |                  predictor |               پیش بینی کننده |
+|      validation set        |      مجموعه اعتبار سنجی      |
+|                            |                              |
+|                            |                              |
+|                            |                              |
 |                            |                              |

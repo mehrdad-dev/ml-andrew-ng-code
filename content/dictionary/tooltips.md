@@ -18,9 +18,9 @@ weight : 10
 
 <span class="top-dict" data-tipso="clustering">خوشه بندی</span>
 
-<span class="top-dict" data-tipso="non-clustering">non-clustering</span>
+<span class="top-dict" data-tipso="non-clustering">غیر خوشه بندی</span>
 
-<span class="top-dict" data-tipso="linear-regression">رگرسیون خطی</span>
+<span class="top-dict" data-tipso="linear regression">رگرسیون خطی</span>
 
 <span class="top-dict" data-tipso="data">داده</span>
 
@@ -28,7 +28,7 @@ weight : 10
 
 <span class="top-dict" data-tipso="cost function">تابع هزینه</span>
 
-<span class="top-dict" data-tipso="parametr">پارامتر</span>
+<span class="top-dict" data-tipso="parameter">پارامتر</span>
 
 <span class="top-dict" data-tipso="squared error function">تابع خطای مجذور</span>
 
@@ -149,4 +149,9 @@ weight : 10
 
 <span class="top-dict" data-tipso="predictor">پیش بینی کننده</span>
 
+<span class="top-dict" data-tipso="learning rate">نرخ یادگیری</span>
+<span class="top-dict" data-tipso="local minimum">مینیمم موضعی</span>
+<span class="top-dict" data-tipso=""></span>
+<span class="top-dict" data-tipso=""></span>
+<span class="top-dict" data-tipso=""></span>
 <span class="top-dict" data-tipso=""></span>

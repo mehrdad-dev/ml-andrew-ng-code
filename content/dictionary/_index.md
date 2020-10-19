@@ -95,7 +95,7 @@ pre = "<i class='fa fa-book' ></i>"
 |    local minimum           |      مینیمم موضعی            |
 |   approximation error      |       خظای تقریب             |
 |      estimation error      |      خطای تخمین              |
-|                            |                              |
+|     market segmentation    |      تقسیم بندی بازار        |
 |                            |                              |
 |                            |                              |
 |                            |                              |

@@ -93,5 +93,10 @@ pre = "<i class='fa fa-book' ></i>"
 |      validation set        |      مجموعه اعتبار سنجی      |
 |     learning rate          |       نرخ یادگیری            |
 |    local minimum           |      مینیمم موضعی            |
+|   approximation error      |       خظای تقریب             |
+|      estimation error      |      خطای تخمین              |
+|                            |                              |
+|                            |                              |
+|                            |                              |
 |                            |                              |
 |                            |                              |

@@ -6,7 +6,9 @@ weight : 40
 ---
 
 ### بررسی نماد ها و مفاهیم
-مثلا در داده ی خانه ها نماد ها به این صورت هستند:
+مثلا در 
+<span class="top-dict" data-tipso="data">داده</span>
+ی خانه ها نماد ها به این صورت هستند:
 ![house-price.png](../images/house-price.png?width=25pc)
 
 
@@ -27,17 +29,22 @@ $$(x_i, y_i) \Rightarrow x_1= 2104, y_1 = 460$$
 
 ![h-function.png](../images/h-function.png?width=17pc)
 
-همانطور که می‌بینید هدف ما اینکه با دادن مجموعه داده
-$train$ به الگوریتم، تابعی رو به وجود بیاوریم که با گرفتن
- متغیر ورودی $x$ متغیر خروجی یعنی $y$ رو پیش بینی کند!
-که به تابع $h$ ، $hypothesis$ یا فرضیه می‌گوییم.
+همانطور که می‌بینید هدف ما اینکه با دادن 
+<span class="top-dict" data-tipso="training set">مجموعه آموزشی</span>
+به الگوریتم، تابعی را به وجود بیاوریم که با گرفتن
+متغیر ورودی $x$ متغیر خروجی یعنی $y$ را پیش بینی کند!
+که به تابع $h$ ،  <span class="top-dict" data-tipso="hypothesis">فرضیه</span>
+می‌گوییم.
 
 تابع $h$ را به این شکل نمایش می‌‌دهیم:
 $$ h_\theta(x) = \theta_0 + \theta_1x $$
 
-که این در واقع رگرسیون خطی تک متغیره است،
+که این در واقع 
+<span class="top-dict" data-tipso="linear regression">رگرسیون خطی</span>
+تک متغیره است،
 $x$ همان تک متغیر مدل است،
-$ \theta_0, \theta_1 $ نیز پارامتر های مدل هستند.
+$ \theta_0, \theta_1 $ نیز <span class="top-dict" data-tipso="parameter">پارامتر</span>
+های مدل هستند.
 
 ![red-line.png](../images/red-line.png?width=17pc)
 

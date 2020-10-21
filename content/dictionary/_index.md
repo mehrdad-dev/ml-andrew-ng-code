@@ -93,9 +93,15 @@ pre = "<i class='fa fa-book' ></i>"
 |      validation set        |      مجموعه اعتبار سنجی      |
 |     learning rate          |       نرخ یادگیری            |
 |    local minimum           |      مینیمم موضعی            |
-|   approximation error      |       خظای تقریب             |
+|   approximation error      |       خطای تقریب             |
 |      estimation error      |      خطای تخمین              |
 |     market segmentation    |      تقسیم بندی بازار        |
+|    test data               |      داده های آزمون          |
+|      test error            |     خطای آزمون               |
+|  support vector machine    |     ماشین بردار پشتیبان      |
+|                            |                              |
+|                            |                              |
+|                            |                              |
 |                            |                              |
 |                            |                              |
 |                            |                              |

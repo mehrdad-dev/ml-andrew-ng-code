@@ -11,7 +11,7 @@ weight: 90
 
 هرچند اگر به سادگی هریک از نمونه‌ها را با عنوان 0 طبقه‌بندی می‌کردیم، خطا به 0.5% کاهش پیدا میکرد، با این وجود که ما الگوریتم را بهبود نداده بودیم.
 
-این مسئله در کلاس‌های نامتوازن رخ می‌دهد، هنگامی که کلاس در کل مجموعه داده بسیار نادر باشد.
+این مسئله در کلاس‌های نامتوازن رخ می‌دهد، هنگامی که کلاس در کل مجموعه داده بسیار نادر است.
 
 به بیان دیگر، هنگامی که نمونه‌های یک کلاس تعداد خیلی بیشتری از یک کلاس دیگر داشته باشد.
 
@@ -25,17 +25,17 @@ weight: 90
 Precision: از تمام بیمارانی که پیش بینی برای آنها  y=1 بوده است، چه بخشی از آن‌ها واقعا مبتلا به سرطان هستند؟
 
 
-$\frac{\text{True Positives}}{\text{Total number of predicted positives}} = \frac{\text{True Positives}}{\text{True Positives + False positives}}$
+$$\frac{\text{True Positives}}{\text{Total number of predicted positives}} = \frac{\text{True Positives}}{\text{True Positives + False positives}}$$
 
 Recall: از تمام بیمارانی که واقعا به سرطان مبتلا هستند، سرطان چه بخشی از آن‌ها توسط ما به درستی تشخیص داده شده است؟
 
 
-#### $\frac{\text{True Positives}}{\text{Total number of actual positives}} = \frac{\text{True Positives}}{\text{True Positives + False negatives}}$
+ $$\frac{\text{True Positives}}{\text{Total number of actual positives}} = \frac{\text{True Positives}}{\text{True Positives + False negatives}}$$
 
 این دو معیار دید بهتری نسبت به این که عملکرد طبقه‌بندی ما چگونه است می‌دهند. ما می‌خواهیم هر دو مقدار Precision و Recall زیاد باشند.
 
 در مثال ابتدای بخش، اگر تمام بیماران را به عنوان 0 طبقه‌بندی کنیم، مقدار recall با $\frac{0}{0 + f}$ برابر خواهد بود، پس با وجود داشتن درصد خطای پایین‌تر recall بدتری خواهد بود.
 
-$Accuracy = \frac{\text{true positive + true negative}}{\text{total population}}$
+$$Accuracy = \frac{\text{true positive + true negative}}{\text{total population}}$$
 
 نکته1: اگر یک الگوریتم مانند یکی از مثال‌ها فقط موارد منفی را پیش‌ بینی کند، مقدار precision تعریف نشده و تقسیم بر صفر غیر ممکن است. F1 نیز تعریف نشده خواهد بود.

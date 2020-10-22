@@ -1,11 +1,11 @@
 ---
-title: "استانداردهای خطا برای کلاس‌های نامتوازن"
+title: "معیار‌های خطا برای کلاس‌های نامتوازن"
 date: 2020-10-19T18:13:55+03:30
 draft: false
 weight: 90
 ---
 
-گاهی اوقات تشخیص اینکه آیا کاهش خطاها باعث بهبود الگوریتم می‌شوند، مشکل خواهد بود.
+گاهی اوقات دشوار است که بگوییم کاهش خطاها باعث بهبود الگوریتم می‌شوند.
 
 - برای مثال: در پیش‌ بینی تشخیص سرطان که 0.5% از نمونه‌ها سرطان دارند، متوجه می‌شویم که الگوریتم یادگیری 1% خطا دارد.
 
@@ -25,14 +25,14 @@ weight: 90
 Precision: از تمام بیمارانی که پیش بینی برای آنها  y=1 بوده است، چه بخشی از آن‌ها واقعا مبتلا به سرطان هستند؟
 
 
-#### $\frac{\text{True Positives}}{\text{Total number of predicted positives}} = \frac{\text{True Positives}}{\text{True Positives + False positives}}$
+$\frac{\text{True Positives}}{\text{Total number of predicted positives}} = \frac{\text{True Positives}}{\text{True Positives + False positives}}$
 
 Recall: از تمام بیمارانی که واقعا به سرطان مبتلا هستند، سرطان چه بخشی از آن‌ها توسط ما به درستی تشخیص داده شده است؟
 
 
 #### $\frac{\text{True Positives}}{\text{Total number of actual positives}} = \frac{\text{True Positives}}{\text{True Positives + False negatives}}$
 
-این دو مقیاس دید بهتری نسبت به این که عملکرد طبقه‌بندی ما چگونه است.
+این دو معیار دید بهتری نسبت به این که عملکرد طبقه‌بندی ما چگونه است می‌دهند. ما می‌خواهیم هر دو مقدار Precision و Recall زیاد باشند.
 
 در مثال ابتدای بخش، اگر تمام بیماران را به عنوان 0 طبقه‌بندی کنیم، مقدار recall با $\frac{0}{0 + f}$ برابر خواهد بود، پس با وجود داشتن درصد خطای پایین‌تر recall بدتری خواهد بود.
 

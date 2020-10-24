@@ -36,8 +36,10 @@ $\frac{P + R }{2}$
 
 راه حل بهتر محاسبه F Score خواهد بود(یا F1 Score):
 
-##### $F Score = 2\frac{PR}{P + R}$
+$$
+F Score = 2\frac{PR}{P + R}
+$$
 
 برای زیاد بودن مقدار F، هردو مقدار precision و recall باید زیاد باشند.
 
-ما می‌خواهیم Precision و Recall را روی **مجموعه Cross validaion**  آموزش دهیم تا مجموعه آزمون دچار Bias نشود.
+ما می‌خواهیم Precision و Recall را روی **مجموعه Cross validaion**  آموزش دهیم تا مجموعه آزمون دچار بایاس نشود.

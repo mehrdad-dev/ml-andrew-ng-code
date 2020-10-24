@@ -9,13 +9,14 @@ pre = "<i class='fa fa-plus-square' ></i>"
 
 لیست منابع موجود:
 - [افراد تاثیر گذار](#افراد-تاثیر-گذار)
-- کانال ها و صفحات اجماعی:
+- کانال ها و صفحات اجتماعی:
     - [تلگرام](#تلگرام)
     - [یوتیوب](#یوتیوب)
     - [توییتر](#توییتر)
     - [اینستاگرام](#اینستاگرام)
     <!-- - [لایو های ضبط شده](#لایو-های-ضبط-شده) -->
 - [وب سایت ها و وبلاگ ها](#وب-سایت-ها-و-وبلاگ-ها)
+- [دیتاست](#دیتاست)
 - دوره های مفید دیگر:
     - [Deep Learning](#deep-learning)
     - [Data Science](#data-science)
@@ -66,6 +67,14 @@ pre = "<i class='fa fa-plus-square' ></i>"
 ### اینستاگرام
 
 ### وب سایت ها و وبلاگ ها
+
+### دیتاست
+
+- [Dataset Search Google](https://datasetsearch.research.google.com/)
+- [Machine learning datasets](https://www.datasetlist.com/)
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [Academic Torrents](https://academictorrents.com/)
+- [Kaggle Dataset](https://www.kaggle.com/datasets)
 
 ### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)

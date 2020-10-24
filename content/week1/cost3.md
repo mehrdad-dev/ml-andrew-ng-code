@@ -15,7 +15,9 @@ weight : 70
 ![image22.png](../images/image22.png?width=25pc)
 
 اما ما برای نمایش این تابع از شکل سه بعدی استفاده
-نمی‌کنیم‌، بلکه از نمودار های کانتور استفاده می‌کنیم!
+نمی‌کنیم‌، بلکه از 
+**<span class="top-dict" data-tipso="contour plot">نمودار های کانتور</span>**
+استفاده می‌کنیم!
 
 در این نمودار ها هر یک از بیضی ها نشان دهنده
 مجموعه ای از نقاط است که مقادیر یکسانی در $J$
@@ -47,6 +49,6 @@ weight : 70
 $\theta_0$ و $\theta_1$  را در حالتی که تابع $J$  مینیمم است
 بیابد.
 
-**که پاسخ ما  گرادیان کاهشی یا همان Gradient Descent  است !**
+**که پاسخ ما  <span class="top-dict" data-tipso="gradient descent">گرادیان کاهشی</span> است !**
 
 ![image28.png](../images/image28.png?width=35pc)

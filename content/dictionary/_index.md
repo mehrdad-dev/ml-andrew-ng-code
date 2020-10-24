@@ -25,7 +25,7 @@ pre = "<i class='fa fa-book' ></i>"
 |                       data |                         داده |
 |                 hypothesis |                        فرضیه |
 |              cost function |                   تابع هزینه |
-|                   parametr |                      پارامتر |
+|                  parameter |                      پارامتر |
 |     squared error function |              تابع خطای مجذور |
 |               contour plot |                نمودار کانتور |
 |           gradient descent |                گرادیان کاهشی |
@@ -91,6 +91,17 @@ pre = "<i class='fa fa-book' ></i>"
 |         debugging gradient |          اشکال زدایی گرادیان |
 |                  predictor |               پیش بینی کننده |
 |      validation set        |      مجموعه اعتبار سنجی      |
+|     learning rate          |       نرخ یادگیری            |
+|    local minimum           |      مینیمم موضعی            |
+|   approximation error      |       خطای تقریب             |
+|      estimation error      |      خطای تخمین              |
+|     market segmentation    |      تقسیم بندی بازار        |
+|    test data               |      داده های آزمون          |
+|      test error            |     خطای آزمون               |
+|  support vector machine    |     ماشین بردار پشتیبان      |
+|                            |                              |
+|                            |                              |
+|                            |                              |
 |                            |                              |
 |                            |                              |
 |                            |                              |

@@ -34,7 +34,9 @@ https://mehrdad-dev.github.io/ml-andrew-ng
 
 https://github.com/mehrdad-dev/ml-andrew-ng
 
-برای اطلاعات بیشتر با آدرس ایمیل زیر در ارتباط باشید:
+## دریافت فایل های اصلی ترجمه
+
+برای دریافت فایل های اصلی انگلیسی ایمیل بزنید، همچنین برای ارتباط بیشتر:
 
 [mehrdad.mohammadian.contact@gmail.com](mailto:mehrdad.mohammadian.contact@gmail.com)
 

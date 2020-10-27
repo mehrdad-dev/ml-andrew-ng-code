@@ -17,6 +17,7 @@ pre = "<i class='fa fa-plus-square' ></i>"
     <!-- - [لایو های ضبط شده](#لایو-های-ضبط-شده) -->
 - [وب سایت ها و وبلاگ ها](#وب-سایت-ها-و-وبلاگ-ها)
 - [دیتاست](#دیتاست)
+- [کنفرانس](#کنفرانس)
 - دوره های مفید دیگر:
     - [Deep Learning](#deep-learning)
     - [Data Science](#data-science)
@@ -40,6 +41,7 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Andrew Ng](https://twitter.com/AndrewYNg)
 - [Yann LeCun](https://twitter.com/ylecun)
 - [Alfredo Canziani](https://twitter.com/alfcnz)
+- [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 
 ### تلگرام
 - [اطلاع رسانی از رویداد های حوزه هوش مصنوعی](https://t.me/AI_Events)
@@ -67,6 +69,8 @@ pre = "<i class='fa fa-plus-square' ></i>"
 ### اینستاگرام
 
 ### وب سایت ها و وبلاگ ها
+- [KDnuggets](https://www.kdnuggets.com/)
+
 
 ### دیتاست
 
@@ -75,6 +79,19 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 - [Academic Torrents](https://academictorrents.com/)
 - [Kaggle Dataset](https://www.kaggle.com/datasets)
+
+
+### کنفرانس
+- [ACM Conference on Recommender Systems](https://recsys.acm.org/)
+- [Signal Processing and Intelligent Systems](http://www.icspis.ir/)
+- [AAAI Conference](https://www.aaai.org/Conferences/conferences.php)
+- [ICML Conference](https://icml.cc/)
+- [KDD Conference](https://www.kdd.org/conferences)
+- [NIPS Conference](https://nips.cc/)
+- [SIGMOD Conference](https://sigmod.org/)
+- [WSDM Conference](http://www.wsdm-conference.org/)
+- [CVPR Conference](#)
+- [ICDE Conference](#)
 
 ### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)

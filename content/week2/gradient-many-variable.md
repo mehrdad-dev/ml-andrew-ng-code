@@ -14,7 +14,21 @@ weight : 20
 
 به طور مثال برای دو متغیره و یا بیشتر خواهیم داشت:
 
-![image64.png](../images/image64.png?width=25pc)
+$$
+\theta_0 := \theta_0  - \alpha \frac{1}{m} \sum ^ m _ {i=1} (h_\theta(x^{(i)}) - y^{(i)}) x_0 ^{(i)}
+$$
+
+$$
+\theta_1 := \theta_1  - \alpha \frac{1}{m} \sum ^ m _ {i=1} (h_\theta(x^{(i)}) - y^{(i)}) x_1 ^{(i)}
+$$
+
+$$
+\theta_2 := \theta_2  - \alpha \frac{1}{m} \sum ^ m _ {i=1} (h_\theta(x^{(i)}) - y^{(i)}) x_2 ^{(i)}
+$$
+
+$$
+...
+$$
 
 {{% notice note %}}
 یادآوری:  مقدار $x_0$ برابر $1$ است.

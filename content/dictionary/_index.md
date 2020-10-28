@@ -32,7 +32,7 @@ pre = "<i class='fa fa-book' ></i>"
 |                     convex |                         محدب |
 |                     vector |                        بردار |
 |         partial derivative |                    مشتق جزئی |
-|            feature scaling |                         none |
+|            feature scaling |             مقیاس بندی ویژگی |
 |         mean normalization |                         none |
 | automatic convergence test |         آزمون همگرایی خودکار |
 |      polynomial regression |          رگرسیون چند جمله ای |
@@ -99,7 +99,7 @@ pre = "<i class='fa fa-book' ></i>"
 |    test data               |      داده های آزمون          |
 |      test error            |     خطای آزمون               |
 |  support vector machine    |     ماشین بردار پشتیبان      |
-|                            |                              |
+|    label                   |        برچسب                 |
 |                            |                              |
 |                            |                              |
 |                            |                              |

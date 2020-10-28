@@ -1274,3 +1274,13 @@ code.has-jax {
   margin-top: -35px;
   margin-bottom: 40px;
 }
+
+
+.illo{
+  /* display: block; */
+  width: 100%;
+  background: rgb(255, 255, 255);
+  cursor: move;
+  /* text-align: center; */
+  margin-right: 250px;
+}

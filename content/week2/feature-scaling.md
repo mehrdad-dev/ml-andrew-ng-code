@@ -1,5 +1,5 @@
 ---
-title: "Feature Scaling"
+title: "مقیاس بندی ویژگی"
 date: 2020-09-09T21:48:49+04:30
 draft: false
 weight : 30
@@ -25,7 +25,7 @@ $$ x_2 = \text {number of bedrooms(1-5) }$$
 
 ![image66.png](../images/image66.png?width=15pc)
 
-**که اینجا از تکنیک Feature Scaling  استفاده می‌کنیم!**
+**که اینجا از تکنیک <span class="top-dict" data-tipso="Feature Scaling">مقیاس بندی ویژگی</span>  استفاده می‌کنیم!**
 
 برای انجام این کار باید مقدار متغیر $x$ را بر تفـــاضـل 
 کران بالا و پایین خودش تقسیم کنیم.
@@ -46,7 +46,7 @@ $$ x_2 = \frac  {\text {number of bedrooms} } {(5-1)}$$
 $$ x_i := \frac{x_i - \mu_i} {s_i} $$
 
 {{% notice note %}}
-نکته: همچنین در مخرج کسر مـی‌توانیم از مــقدار
+همچنین در مخرج کسر مـی‌توانیم از مــقدار
 انحراف معیار استفاده کنیم، که البته نتایج متفاوتی 
 با هم دارند.
 {{% /notice %}}

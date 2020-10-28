@@ -5,7 +5,7 @@ draft: false
 weight : 50
 ---
 
-### Polynomial Regression | رگرسیون چند جمله ای
+### <span class="top-dict" data-tipso="polynomial regression">رگرسیون چند جمله ای</span>
 
 تابع فرضیه $h$ می‌تواند خطی نباشد، اگر تناسب خوبی
 با داده های ما ندارد، 
@@ -14,11 +14,11 @@ weight : 50
 
 فرض کنید که تابع فرضیه ما $ h_\theta(x) = \theta_0 + \theta_1 x_1$ باشد
 بنابراین می‌توانیم ویژگی جدیدی بر پایه ویژگی $x_1$
-اضافه کنیم تا به تابعی quadratic یا درجه دو برسیم:
+اضافه کنیم تا به تابعی <span class="top-dict" data-tipso="quadratic">درجه دو</span> برسیم:
 
 $$ {\color{Blue} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2}$$
 
-یا به تابعی درجه سه یا cubic:
+یا به تابعی <span class="top-dict" data-tipso="cubic">درجه سه</span>:
 $$ {\color{Green} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2 + \theta_3 x_1^3}$$
 
 ![image78.png](../images/image78.png?width=25pc)
@@ -27,11 +27,11 @@ $$ {\color{Green} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2 + \thet
 
 ![image79.png](../images/image79.png?width=25pc)
 
-همچنین می‌توانیم از نمودار ریشه دوم یا square root 
+همچنین می‌توانیم از نمودار <span class="top-dict" data-tipso="square root">ریشه دوم</span>
 استفاده کنیم:
 
 $$ h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 \sqrt{x}$$
 
 توجه کنید بعد از اینکه ویژگی های جدید خود را به 
-این روش اضافه کردید، انجام feature scaling  برای
+این روش اضافه کردید، انجام <span class="top-dict" data-tipso="Feature Scaling">مقیاس بندی ویژگی</span> برای
 برای ویژگی ها یا همان متغیر ها خیلی مهم است!

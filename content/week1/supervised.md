@@ -7,16 +7,17 @@ author: Mehrdad Mohammadian
 ---
 
 ### تعریف یادگیری با نظارت
-در یـادگـیری با نظارت یک مجموعه داده داریم و از قبل 
+در <span class="top-dict" data-tipso="supervised learning">یادگیری با نظارت</span> یک مجموعه داده داریم و از قبل 
 می‌دانیم که خروجی صحیح باید چطور باشد، اصطلاحا 
-داده های لیبل خورده اند! 
+داده ها <span class="top-dict" data-tipso="label">برچسب</span> خورده اند! 
 با این ایده که به بین خروجی و ورودی رابطه وجود دارد.
 
 مسائل یادگیری با نظارت
- به دو دسته **رگرسیون** و **طبقه بندی** تقسیم می‌شوند.
+به دو دسته **<span class="top-dict" data-tipso="regression">رگرسیون</span>** و
+**<span class="top-dict" data-tipso="classification">طبقه بندی</span>** تقسیم می‌شوند.
 
 
-### رگرسیون | Regression
+### رگرسیون
 ![linearRegression](../images/linearRegression.jpg?width=30pc)
 
 در این مسائل سعی می‌کنیم خروجی ای با مقدار پیوسته
@@ -26,7 +27,7 @@ author: Mehrdad Mohammadian
 داده ای از قیمت های واقعی خانه ها بر اساس اندازه،
 قیمت خانه ای جدیدی را پیش بینی کنیم.
 
-### طبقه بندی | Classification
+### طبقه بندی
 ![classification](../images/classification.png?width=30pc)
 
 در عوض اینجا سعی می‌کنیم خروجی ای با مقدار 

@@ -19,7 +19,7 @@ weight : 30
 **<span class="top-dict" data-tipso="non-clustering">غیر خوشه بندی</span>** 
 تقسیم می‌شوند.
 
-### خوشه بندی | Clustering 
+### خوشه بندی 
 
 ![clustering](../images/clustering.png?width=30pc)
 

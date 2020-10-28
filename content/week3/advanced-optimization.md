@@ -6,7 +6,7 @@ weight: 50
 ---
 
 Conjugate gradient, BFGS و L-BFGS
-راه های پیچیده تر و سریع تری برای بهینه سازی $\theta$ به جای Gradient descent هستند.
+راه های پیچیده تر و سریع تری برای بهینه سازی $\theta$ به جای <span class="top-dict" data-tipso="gradient descent">گرادیان کاهشی</span> هستند.
 
 پیشنهاد می‌شود که این الگوریتم های پیچیده را خودتان ننویسید
 (مگر اینکه در محاسبات عددی متخصص باشید)،

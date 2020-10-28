@@ -5,7 +5,7 @@ draft: false
 weight: 60
 ---
 
-هنگامی که در classifiction، بیش از دو دسته داشته باشیم
+هنگامی که در <span class="top-dict" data-tipso="classification">طبقه بندی</span>، بیش از دو دسته داشته باشیم
 به جای $y = \text{ {0,1} }$
 تعاریف خود را به $ y = \text { {0,1, ..., n} } $
 گسترش می‌دهیم.

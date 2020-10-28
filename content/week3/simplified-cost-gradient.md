@@ -5,7 +5,7 @@ draft: false
 weight : 40
 ---
 
-### Cost Function
+### <span class="top-dict" data-tipso="cost function">تابع هزینه</span>
 
 ما می‌توانیم دو حالت شرطی تابع هزینه خودمان در قسمت قبلی را در یک حالت فشرده شده بنویسیم:
 
@@ -37,7 +37,7 @@ $$
 $$
 
 
-### Gradient Descent
+### <span class="top-dict" data-tipso="gradient descent">گرادیان کاهشی</span>
 
 به یاد داشته باشید که شکل کلی گرادیان کاهشی به این صورت است:
 

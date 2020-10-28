@@ -11,7 +11,24 @@ author: Mehrdad Mohammadian
 
 **در حال تکمیل است ...** 
 
-![cover cource](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/cover-course.png?width=40pc)
+
+<!-- <canvas class="zdog-canvas" width="240" height="240"></canvas> -->
+<canvas class="illo"></canvas>
+
+<script src="../../js/zdog/boilerplate.js"></script>
+<script src="../../js/zdog/canvas-renderer.js"></script>
+<script src="../../js/zdog/vector.js"></script>
+<script src="../../js/zdog/anchor.js"></script>
+<script src="../../js/zdog/path-command.js"></script>
+<script src="../../js/zdog/shape.js"></script>
+<script src="../../js/zdog/group.js"></script>
+<script src="../../js/zdog/dragger.js"></script>
+<script src="../../js/zdog/illustration.js"></script>
+
+<script src="{{../../js/zdog/home.js"></script>
+
+
+<!-- ![cover cource](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/cover-course.png?width=40pc) -->
 
 این دوره به طور رایگان توسط [Andrew Ng](https://www.andrewng.org/) استادیار دانشگاه استنفورد تهیه شده است، و ما اینجا به طور خلاصه و مفید این دوره ارزشمند را به فارسی روان قرار داده ایم.
 

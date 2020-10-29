@@ -46,7 +46,7 @@ var BokehShape = Zdog.Shape.subclass({
 let illo = new Zdog.Illustration({
     element: '.illo',
     resize: 'fullscreen',
-    zoom: 1.1,
+    // zoom: 1.1,
     dragRotate: true,
 });
 
@@ -127,7 +127,30 @@ new Zdog.Shape({
 
 // })();
 
+// var then = new Date() - 1/60;
+// var isSpinning = true;
+// var rotateSpeed = -TAU/60;
+
+
+
+// function update() {
+//   var now = new Date();
+//   var delta = now - then;
+//   // auto rotate
+//   if ( isSpinning ) {
+//     var theta = rotateSpeed/60 * delta * -1;
+//     illo.rotate.y += theta;
+//     xClock += theta/4;
+//     illo.rotate.x = Math.sin( xClock ) * TAU/12;
+//   }
+
+//   illo.updateGraph();
+
+//   then = now;
+// }
+
 function animate() {
+    // update();
     illo.updateRenderGraph();
     requestAnimationFrame(animate);
 }

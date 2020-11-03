@@ -567,13 +567,14 @@ h1 {
   /* text-transform: uppercase; */
   color: #222;
   margin-bottom: 50px;
-  font-weight: 200;
+  font-weight: 10px;
 }
+
 blockquote {
   border-left: 10px solid #f0f2f4;
 }
 blockquote p {
-  font-family: Vazir !important;
+  fontfamily: Vazir !important;
   font-size: 1.1rem;
   color: #999;
 }
@@ -1283,4 +1284,8 @@ code.has-jax {
   cursor: move;
   /* text-align: center; */
   margin-right: 250px;
+}
+
+.h4_menu {
+  color: #ffffff;
 }

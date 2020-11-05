@@ -30,18 +30,18 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [سروناز چوبدار](https://www.instagram.com/datascience_with_sarvi/)
 - [سعید چوپانی](https://www.instagram.com/saeed_choobani/)
 - [سید ناصر رضوی](https://www.instagram.com/seyed_naser_razavi/)
-- [کوشیار عظیمیان](https://www.instagram.com/kooshiar/)
 - [شیدا وانوئی](https://www.instagram.com/sheida.vanoei/)
 - [علیرضا اخوان پور](https://www.instagram.com/alirezaweb/)
 - [علی صادقی عقیلی](https://www.instagram.com/thedatascientist/)
+- [کوشیار عظیمیان](https://www.instagram.com/kooshiar/)
 - [مریم رهبر عالم](https://www.instagram.com/dr.maryrahbar/)
 - [مهدی حبیب زاده](https://www.instagram.com/nimahm1980/)
 
 افراد تاثیر گذار انگلیسی زبان:
-- [Andrew Ng](https://twitter.com/AndrewYNg)
-- [Yann LeCun](https://twitter.com/ylecun)
 - [Alfredo Canziani](https://twitter.com/alfcnz)
+- [Andrew Ng](https://twitter.com/AndrewYNg)
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
+- [Yann LeCun](https://twitter.com/ylecun)
 
 ### تلگرام
 - [اطلاع رسانی از رویداد های حوزه هوش مصنوعی](https://t.me/AI_Events)
@@ -55,6 +55,12 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Pythonic AI](https://t.me/pythonicAI)
 - [کتابخانه هوش مصنوعی](https://t.me/ailib)
 - [arXiv](https://t.me/ai_python_arxiv)
+- [هوش مصنوعی |یادگیری ماشین| علم داده](https://t.me/Ai_Tv)
+- [AI+‌‌](https://t.me/aiandbigdata)
+- [ML_DEEP](https://t.me/MLIPUN)
+- [Machine learning books and papers](https://t.me/Machine_learn)
+- [School of AI](https://t.me/schoolofai)
+
 
 ### یوتیوب
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
@@ -63,10 +69,12 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Alexander Amini](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
 - [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 
+
 ### توییتر
 
 
 ### اینستاگرام
+
 
 ### وب سایت ها و وبلاگ ها
 - [KDnuggets](https://www.kdnuggets.com/)
@@ -93,7 +101,9 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [CVPR Conference](#)
 - [ICDE Conference](#)
 
+
 ### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)
+
 
 ### Data Science

@@ -28,7 +28,7 @@ author: Mehrdad Mohammadian
 
 ####  مثلا بازی چکرز!
 
-![game](../images/game.jpg?width=15pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/game.jpg?width=15pc)
 
 | نماد |  |
 | ------:| -----------:|

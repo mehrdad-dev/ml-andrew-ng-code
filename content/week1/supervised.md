@@ -18,7 +18,7 @@ author: Mehrdad Mohammadian
 
 
 ### رگرسیون
-![linearRegression](../images/linearRegression.jpg?width=30pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/linearRegression.jpg?width=30pc)
 
 در این مسائل سعی می‌کنیم خروجی ای با مقدار پیوسته
 را پیش بینی کنیم.
@@ -28,7 +28,7 @@ author: Mehrdad Mohammadian
 قیمت خانه ای جدیدی را پیش بینی کنیم.
 
 ### طبقه بندی
-![classification](../images/classification.png?width=30pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/classification.png?width=30pc)
 
 در عوض اینجا سعی می‌کنیم خروجی ای با مقدار 
 گسسته  پیش بینی کنیم.

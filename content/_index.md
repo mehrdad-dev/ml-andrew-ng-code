@@ -11,7 +11,7 @@ author: Mehrdad Mohammadian
 
 **در حال تکمیل است ...** 
 
-![cover cource](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/cover-course.png?width=40pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](https://github.com/mehrdad-dev/ml-andrew-ng/raw/master/images/cover-course.png?width=40pc)
 
 ### ℹ️ درباره دوره
 
@@ -38,7 +38,7 @@ author: Mehrdad Mohammadian
 
 <!-- ----------------------------------------------------------------------------- -->
 
-### 👊 مشارکت
+### 🤝 مشارکت
 
 اگر علاقه به مشارکت در این کار دارید از قبیل:
 - کامل تر کردن محتوای مطالب

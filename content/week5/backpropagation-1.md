@@ -18,7 +18,7 @@ $$
 بهینه از پارامتر $\Theta$ به حداقل برسانیم
 (یا به عبارتی دیگر مینیمم کنیم).
 
-در این بخش به معادلاتی که برای محاسبه مشتق جزئی تابع $J(\Theta)$ استفاده می‌کنیم، خواهیم پرداخت:
+در این بخش به معادلاتی که برای محاسبه <span class="top-dict" data-tipso="partial derivative">مشتق جزئی</span> تابع $J(\Theta)$ استفاده می‌کنیم، خواهیم پرداخت:
 
 $$
 \frac{\partial}{\partial \Theta_ {i,j} ^{(l)}} J(\Theta)
@@ -104,7 +104,7 @@ $
 - محاسبه $\delta^{(L-1)},\delta^{(L-2)}, ... , \delta^{(2)} $ با استفاده از $\delta ^{(l)} = ( (\Theta ^ {(l)}) ^ T  \delta ^ {(l+1)}) \hspace{0.2cm} .*  \hspace{0.2cm} a^{(l)}
 \hspace{0.2cm} .*  \hspace{0.2cm}  (1 -  a^{(l)})$
 
-- محاسبه $\Delta _{i,j} ^{(l)} := \Delta _{i,j} ^{(l)} + a_j ^{(l)} \delta _i ^{(l+1)} $ یا به صورت vectorization محاسبه $\Delta ^{(l)} := \Delta ^{(l)} + \delta ^{(l+1)} (a^{(l)})^ T$
+- محاسبه $\Delta _{i,j} ^{(l)} := \Delta _{i,j} ^{(l)} + a_j ^{(l)} \delta _i ^{(l+1)} $ یا به صورت برداری شده محاسبه $\Delta ^{(l)} := \Delta ^{(l)} + \delta ^{(l+1)} (a^{(l)})^ T$
 
 - $D _{i,j} ^{(l)} := \frac{1}{m} (\Delta _{i,j} ^{(l)} + \lambda \Theta _{i,j} ^{(l)}) $ اگر $j \neq 0$ 
 

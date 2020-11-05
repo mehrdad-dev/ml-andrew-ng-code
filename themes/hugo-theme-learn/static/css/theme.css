@@ -32,6 +32,8 @@ p {
   font-family: Vazir !important;
   font-weight: normal;
   font-style: normal;
+  text-align:justify;  
+  text-justify:inter-character;
 }
 ol {
   list-style-type: persian;

@@ -59,7 +59,6 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 - [AI+‌‌](https://t.me/aiandbigdata)
 - [ML_DEEP](https://t.me/MLIPUN)
 - [Machine learning books and papers](https://t.me/Machine_learn)
-- [School of AI](https://t.me/schoolofai)
 
 
 ### یوتیوب

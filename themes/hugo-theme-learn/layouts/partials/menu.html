@@ -107,7 +107,7 @@
       <a href="{{.RelPermalink}}">
           {{safeHTML .Params.Pre}} {{or .Params.menuTitle .LinkTitle .Title}} {{safeHTML .Params.Post}}
           {{ if $showvisitedlinks}}
-            <i  class="fas fa-check read-icon"></i>
+            <i  class="fas fa-check-square read-icon read_icon"></i>
           {{ end }}
       </a>
       {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}

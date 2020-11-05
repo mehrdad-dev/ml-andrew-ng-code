@@ -1236,11 +1236,12 @@ pre .copy-to-clipboard:hover {
 
 #sidebar ul li .read-icon {
   display: none;
-  float: right;
+  float: left;
   font-size: 13px;
   min-width: 16px;
   margin: 4px 0 0 0;
   text-align: right;
+  margin-left: 5px;
 }
 #sidebar ul li.visited > a .read-icon {
   color: #00bdf3;

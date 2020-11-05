@@ -2,7 +2,7 @@
 title =  "منابع مفید "
 date = 2020-09-10T17:04:49+04:30
 weight = 75
-pre = "<i class='fa fa-plus-square' ></i>"
+pre = "<i class='fa fa-plus-square plus_square' ></i>"
 +++
 
 **این صفحه در حال ویرایش و کامل شدن است ...**

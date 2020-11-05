@@ -180,8 +180,7 @@ input[type="time"]:focus,
 input[type="week"]:focus,
 select[multiple="multiple"]:focus {
   border-color: #00bdf3;
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06),
-    0 0 5px rgba(0, 169, 218, 0.7);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(0, 169, 218, 0.7);
 }
 #header-wrapper {
   background: #8451a1;
@@ -910,8 +909,7 @@ td {
   z-index: 1000000;
   display: none;
   padding: 5px 8px;
-  font: normal normal 11px/1.5 "Work Sans", "Helvetica", "Tahoma", "Geneva",
-    "Arial", sans-serif;
+  font: normal normal 11px/1.5 "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   color: #fff;
   text-align: center;
   text-decoration: none;
@@ -1277,8 +1275,7 @@ code.has-jax {
   margin-bottom: 40px;
 }
 
-
-.illo{
+.illo {
   /* display: block; */
   width: 100%;
   background: rgb(255, 255, 255);
@@ -1290,4 +1287,28 @@ code.has-jax {
 .h4_menu {
   color: #ffffff;
   font-size: 21px;
+}
+
+.graduation_cap {
+  margin-left: 5px;
+}
+
+.book {
+  margin-left: 5px;
+}
+
+.question {
+  margin-left: 5px;
+}
+
+.heart {
+  margin-left: 5px;
+}
+
+.plus_square {
+  margin-left: 5px;
+}
+
+.info {
+  margin-left: 5px;
 }

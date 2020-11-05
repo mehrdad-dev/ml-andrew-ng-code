@@ -21,12 +21,12 @@ $$ \frac{\partial} {\partial x} J(\theta)  \overset{\underset{\mathrm{set}}{}}{=
 اجازه می‌دهد که مقدار $\theta$ را برای مینیمم کردن تابع 
 پیدا کنیم.
 
-![image80.png](../images/image80.png?width=13pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image80.png?width=13pc)
 
 اما مسئله ای که برای ما جالب است $\theta$ یک عدد حقیقی
 نیست، بلکه یک بردار در ابعدا 1+n  است:
 
-![image81.png](../images/image81.png?width=33pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image81.png?width=33pc)
 
 برای محاسبه اینکه چطور تابع هزینه را مینیمم کنیم باید
 مشتق جزئی تابع $J$ را برای هر کدام از تتا ها بگیریم و برابر 
@@ -36,8 +36,8 @@ $$ \frac{\partial} {\partial x} J(\theta)  \overset{\underset{\mathrm{set}}{}}{=
 
 اگر <span class="top-dict" data-tipso="training set">مجموعه آموزشی</span> به این شکل داشته باشیم:
 
-![image82.png](../images/image82.png?width=33pc)
-![image58.png](../images/image58.png?width=25pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image82.png?width=33pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image58.png?width=25pc)
 
 معادله نرمال ما برای محاسبه تتا به این صورت خواهد
 بود:

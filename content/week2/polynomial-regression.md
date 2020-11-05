@@ -21,11 +21,11 @@ $$ {\color{Blue} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2}$$
 یا به تابعی <span class="top-dict" data-tipso="cubic">درجه سه</span>:
 $$ {\color{Green} h_\theta(x) = \theta_0 + \theta_1 x_1 + \theta_2 x_1^2 + \theta_3 x_1^3}$$
 
-![image78.png](../images/image78.png?width=25pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image78.png?width=25pc)
 
 به طور مثال برای تابع درجه سه می‌نویسیم:
 
-![image79.png](../images/image79.png?width=25pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image79.png?width=25pc)
 
 همچنین می‌توانیم از نمودار <span class="top-dict" data-tipso="square root">ریشه دوم</span>
 استفاده کنیم:

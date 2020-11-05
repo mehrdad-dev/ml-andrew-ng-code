@@ -8,7 +8,7 @@ weight : 20
 الگوریتم جدید ما برای گرادیان کاهشی با چندین متغیر
 به این صورت است:
 
-![image61.png](../images/image61.png?width=25pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image61.png?width=25pc)
 
 و قسمت $ \frac{1}{m} \sum_{i=1}^m (h_\theta(x^{(i)}) - y^{(i)} ) x_j^{(i)} $ همان مشتق جرئی $\frac {\partial} {\partial\theta_0} J(\theta)$ است.
 

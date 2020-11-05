@@ -23,7 +23,7 @@ $$ x_2 = \text {number of bedrooms(1-5) }$$
 پیدا کردن مینیمم کلی در این تابع هزینه زمان زیادی 
 را باید صرف کند!
 
-![image66.png](../images/image66.png?width=15pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image66.png?width=15pc)
 
 **که اینجا از تکنیک <span class="top-dict" data-tipso="Feature Scaling">مقیاس بندی ویژگی</span>  استفاده می‌کنیم!**
 
@@ -36,7 +36,7 @@ $$ x_2 = \text {number of bedrooms(1-5) }$$
 $$ x_1 =  \frac {\text {size(feet^2)} } {2000}$$
 $$ x_2 = \frac  {\text {number of bedrooms} } {(5-1)}$$
 
-![image70.png](../images/image70.png?width=15pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image70.png?width=15pc)
 
 همچنین روش مشابه دیگری برای انجام این کار به 
 اسم mean normalization داریم.

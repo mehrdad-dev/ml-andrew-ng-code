@@ -16,10 +16,14 @@
 }
 .tipso_title {
 	border-radius: 6px 6px 0 0;
+	text-align: center;
 }
+
+
 .tipso_content {
   	word-wrap: break-word;
 	padding: 0.5em;
+	text-align: center;
 }
 
 /* Tipso Bubble size classes - Similar to Foundation's syntax*/

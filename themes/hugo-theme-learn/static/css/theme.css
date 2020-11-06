@@ -33,7 +33,7 @@ p {
   font-weight: normal;
   font-style: normal;
   text-align:justify;  
-  text-justify:inter-character;
+  text-justify:inter-word;
 }
 ol {
   list-style-type: persian;

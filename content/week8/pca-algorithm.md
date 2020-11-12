@@ -89,3 +89,26 @@ $$
 
 **3. k ستون اول ماتریس U را گرفته و z را محاسبه کنید**
 
+ما k ستون اول U به متغیری به اسم Ureduce اختصاص می‌دهیم،
+که یک ماتریس $n \times k$ خواهد شد.
+و $z$ را به این صورت محاسبه می‌کنیم:
+
+$$
+z^{(i)} = Ureduce ^ T . x ^ {(i)}
+$$
+$UreduceZ^ T$ ابعادی برابر با $k \times n$ خواهد داشت.
+در حالی که ابعاد $x ^ {(i)}$، $n \times 1$ خواهد بود.
+نتیجه $Ureduce ^ T . x ^ {(i)}$ ابعادی برابر با $k \times 1$ خواهد داشت.
+
+به طور خلاصه، کل الگوریتم موجود در اکتاو به این صورت خواهد بود:
+
+<div align="left">
+
+```
+Sigma = (1/m) * X' * X; % compute the covariance matrix
+[U,S,V] = svd(Sigma);   % compute our projected directions
+Ureduce = U(:,1:k);     % take the first k directions
+Z = X * Ureduce;        % compute the projected data points
+```
+
+</div>

@@ -37,11 +37,14 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 - [مریم رهبر عالم](https://www.instagram.com/dr.maryrahbar/)
 - [مهدی حبیب زاده](https://www.instagram.com/nimahm1980/)
 
-افراد تاثیر گذار انگلیسی زبان:
+افراد تاثیر گذار انگلیسی زبان به ترتیب الفبا:
+- [Afshine Amidi](https://twitter.com/afshinea)
 - [Alfredo Canziani](https://twitter.com/alfcnz)
 - [Andrew Ng](https://twitter.com/AndrewYNg)
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
+- [Shervine Amidi](https://twitter.com/shervinea)
 - [Yann LeCun](https://twitter.com/ylecun)
+
 
 ### تلگرام
 - [اطلاع رسانی از رویداد های حوزه هوش مصنوعی](https://t.me/AI_Events)
@@ -73,6 +76,7 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 
 
 ### اینستاگرام
+- [ai.eng](https://www.instagram.com/ai.eng/)
 
 
 ### وب سایت ها و وبلاگ ها

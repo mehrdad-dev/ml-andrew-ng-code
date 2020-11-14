@@ -18,15 +18,12 @@ https://mehrdad-dev.github.io/ml-andrew-ng
 
 
 ## دستور العمل مشارکت
-لطفا برای مشارکت از لینک زیر دستور العمل را مطالعه کنید:
+لطفا برای مشارکت در ترجمه  [دستور العمل مشارکت](https://github.com/mehrdad-dev/ml-andrew-ng-code/wiki/%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA)
+ را مطالعه کنید:
 
-[کلیک کنید](https://github.com/mehrdad-dev/ml-andrew-ng-code/wiki/%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA)
 
-مشارکت در کار هایی از قبیل:
-- کامل تر کردن محتوای مطالب
-- بهتر کردن ترجمه مطالب
-- کامل کردن بخش منابع مفید و غیره
-- طراحی نمودار و تصاویر
+و برای مشاهده لیست [کار هایی که میتوان در آن مشارکت کرد](https://github.com/mehrdad-dev/ml-andrew-ng-code/wiki/%DA%A9%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%DA%A9%D8%B1%D8%AF)
+کلیک کنید.
 
 بعد از انجام تغییرات خود لطفا pull request ایجاد کنید،
 تغییرات شما پس از بررسی اعمال خواهد شد.

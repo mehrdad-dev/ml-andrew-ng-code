@@ -19,7 +19,7 @@ https://mehrdad-dev.github.io/ml-andrew-ng
 
 ## دستور العمل مشارکت
 لطفا برای مشارکت در ترجمه  [دستور العمل مشارکت](https://github.com/mehrdad-dev/ml-andrew-ng-code/wiki/%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA)
- را مطالعه کنید:
+ را مطالعه کنید.
 
 
 و برای مشاهده لیست [کار هایی که میتوان در آن مشارکت کرد](https://github.com/mehrdad-dev/ml-andrew-ng-code/wiki/%DA%A9%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A2%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA-%DA%A9%D8%B1%D8%AF)

@@ -1,6 +1,6 @@
 <div dir=rtl align="right">
 
-# سورس کد دوره یادگیری ماشین دانشگاه استنفورد به فارسی
+# سورس کد وب سایت یادگیری ماشین دانشگاه استنفورد به فارسی
 
 [🇬🇧](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/README-EN.md) &nbsp;
 [🇮🇷](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/README.md) &nbsp;

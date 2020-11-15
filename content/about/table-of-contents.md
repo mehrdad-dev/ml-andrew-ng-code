@@ -5,6 +5,7 @@ draft: false
 weight : 10
 author: Mehrdad Mohammadian
 ---
+
 <ul class="children children-li">
 	
 
@@ -2288,6 +2289,40 @@ author: Mehrdad Mohammadian
 			
 		
 	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week7/kernels1/" class="highlight"> کرنل ها (قسمت اول)</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
 
 				
 
@@ -2594,6 +2629,108 @@ author: Mehrdad Mohammadian
 			
 		
 	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week8/reconstruction-compressed-representation/" class="highlight">بازسازی از حالت فشرده</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week8/choosing-number-pc/" class="highlight">انتخاب تعداد اجزای اصلی</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week8/advice-for-applying-pca/" class="highlight">توصیه هایی برای اعمال PCA</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
 
 				
 
@@ -2866,6 +3003,278 @@ author: Mehrdad Mohammadian
 			
 		
 	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/anomaly-detection-using-multivariate-gaussian-distribution/" class="highlight">تشخیص ناهنجاری با استفاده از توزیع گاوسی چند متغیره (اختیاری)</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/problem-formulation/" class="highlight">فرمول مسئله</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/content-based-recommendation/" class="highlight">پیشنهادهای مبتنی بر محتوا</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/collaborative-filtering/" class="highlight">فیلترینگ مشارکتی</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/collaborative-filtering-algorithm/" class="highlight">الگوریتم فیلترینگ مشارکتی</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/vectorization/" class="highlight">بردارسازی: فاکتورگیری ماتریس با درجه پایین</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/mean-normalization/" class="highlight">جزئیات پیاده‌سازی: نرمال‌سازی میانگین</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/week9/files/" class="highlight">فایل های هفته نهم</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
+	
 
 				
 
@@ -3103,6 +3512,40 @@ author: Mehrdad Mohammadian
 
 				
 					
+	
+		
+			
+				
+<li>
+<a href="/ml-andrew-ng/about/table-of-contents/" class="highlight">فهرست مطالب</a>
+</li>
+				
+
+				
+			
+			
+
+				
+<ul>
+				
+
+				
+					
+				
+
+				
+
+				
+					
+	
+
+				
+
+				
+</ul>
+				
+			
+		
 	
 
 				

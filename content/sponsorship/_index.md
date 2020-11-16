@@ -16,11 +16,14 @@ pre = "<i class='fa fa-heart heart' ></i>"
 
 حمایت های دریافتی برای خود پروژه و مشارکت کنندگان آن هزینه خواهد شد.
 
-با استفاده از پرداخت امن پی پینگ.
-
 <a href="https://ppng.ir/mlcourse">
-<button class="button" > حمایت ❤️  </button>
+<button class="button" >  از طریق پی پینگ  </button>
 </a>
+
+**Bitcoin:** 1NBXBy6xcbmQMJMt5dcwY7khf7zR8uvJt7
+
+**Ether:** 0x645224bDd3044a54C3A80fD201F9eE3294bbD888
+
 
 
 ### معرفی در شبکه های اجتماعی

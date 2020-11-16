@@ -49,6 +49,12 @@ https://github.com/mehrdad-dev/ml-andrew-ng
   </tr>
 </table>
 
+## ❤️ حمایت
+برای حمایت و دونیت کردن به بخش
+[حمایت](https://mehrdad-dev.github.io/ml-andrew-ng/sponsorship/)
+وب سایت
+مراجعه کنید.
+
 
 ## مجوز
 [LICENSE](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/LICENSE)

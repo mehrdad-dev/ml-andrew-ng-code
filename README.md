@@ -30,7 +30,7 @@ https://mehrdad-dev.github.io/ml-andrew-ng
 بعد از انجام تغییرات خود لطفا pull request ایجاد کنید،
 تغییرات شما پس از بررسی اعمال خواهد شد.
 
-برای مشاهده ریپو generate شده وب سایت:
+مخزن github page وب سایت:
 
 https://github.com/mehrdad-dev/ml-andrew-ng
 

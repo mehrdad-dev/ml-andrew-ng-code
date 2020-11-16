@@ -30,7 +30,7 @@ https://mehrdad-dev.github.io/ml-andrew-ng
 بعد از انجام تغییرات خود لطفا pull request ایجاد کنید،
 تغییرات شما پس از بررسی اعمال خواهد شد.
 
-برای مشاهده ریپو generate شده وب سایت:
+مخزن github page وب سایت:
 
 https://github.com/mehrdad-dev/ml-andrew-ng
 
@@ -48,6 +48,12 @@ https://github.com/mehrdad-dev/ml-andrew-ng
     <td align="center"><a href="https://github.com/faribajpr"><img src="https://avatars3.githubusercontent.com/u/33823943?s=400&v=4" width="100px;" alt=""/><br /><sub><b>fariba javadpour</b></sub></a><br /><a href="#" title="Content">🖋</a></td>
   </tr>
 </table>
+
+## ❤️ حمایت
+برای حمایت و دونیت کردن به بخش
+[حمایت](https://mehrdad-dev.github.io/ml-andrew-ng/sponsorship/)
+وب سایت
+مراجعه کنید.
 
 
 ## مجوز

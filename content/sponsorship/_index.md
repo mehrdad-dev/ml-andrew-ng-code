@@ -16,6 +16,10 @@ pre = "<i class='fa fa-heart heart' ></i>"
 
 حمایت های دریافتی برای خود پروژه و مشارکت کنندگان آن هزینه خواهد شد.
 
+<a href="https://idpay.ir/ml-andrew-ng">
+<button class="button" >  از طریق آیدی پی  </button>
+</a>
+
 <a href="https://ppng.ir/mlcourse">
 <button class="button" >  از طریق پی پینگ  </button>
 </a>

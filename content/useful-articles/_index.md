@@ -19,7 +19,10 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 - [دیتاست](#دیتاست)
 - [کنفرانس](#کنفرانس)
 - دوره های مفید دیگر:
+    - [Machine Learning](#machine-learning)
     - [Deep Learning](#deep-learning)
+    - [Probability](#probability)
+    - [Linear Algebra](#linear-algebra)
     - [Data Science](#data-science)
 
 ### افراد تاثیر گذار
@@ -105,8 +108,20 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 - [ICDE Conference](#)
 
 
+### Machine Learning
+- [Elements of Ai](https://course.elementsofai.com/)
+
 ### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)
+- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [CS230 Deep Learning](http://cs230.stanford.edu/)
 
+### Probability
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage)
+
+
+### Linear Algebra
+-[MIT Prof. Gilbert Strang Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 
 ### Data Science

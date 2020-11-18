@@ -61,5 +61,5 @@ weight = 10
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> گیت هاب"
 identifier = "github"
-url = "https://github.com/mehrdad-dev/ml-andrew-ng"
+url = "https://github.com/mehrdad-dev/ml-andrew-ng-code"
 weight = 12

@@ -28,7 +28,7 @@
     {{ $disableShortcutsTitle := .Site.Params.DisableShortcutsTitle}}
     {{with .Site.Menus.shortcuts}}
       <section  dir="rtl"  id="shortcuts">
-        <h4>{{ if not $disableShortcutsTitle}} شبکه های اجتماعی {{ T ""}}{{ end }}</h3>
+        <h4 class="h4_menu">{{ if not $disableShortcutsTitle}} شبکه های اجتماعی {{ T ""}}{{ end }}</h3>
         <ul>
           {{ range sort . "Weight"}}
               <li> 
@@ -107,7 +107,7 @@
       <a href="{{.RelPermalink}}">
           {{safeHTML .Params.Pre}} {{or .Params.menuTitle .LinkTitle .Title}} {{safeHTML .Params.Post}}
           {{ if $showvisitedlinks}}
-            <i  class="fas fa-check read-icon"></i>
+            <i  class="fas fa-check-square read-icon read_icon"></i>
           {{ end }}
       </a>
       {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}

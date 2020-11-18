@@ -19,9 +19,9 @@ weight : 30
 **<span class="top-dict" data-tipso="non-clustering">غیر خوشه بندی</span>** 
 تقسیم می‌شوند.
 
-### خوشه بندی | Clustering 
+### خوشه بندی 
 
-![clustering](../images/clustering.png?width=30pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/clustering.png?width=30pc)
 
 در این مسـائـــل سـعــی مـی‌کــنیم
 داده هایی با ویژگی های مشترک 
@@ -38,4 +38,4 @@ weight : 30
 2. الگوریتم Cocktail Party به شما امکان می‌دهد کـــه 
 در مــحیط بــی نظم سـاختـار پیدا کنید:
 
-![cocktail-party](../images/cocktail-party.jpeg?width=30pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/cocktail-party.jpeg?width=30pc)

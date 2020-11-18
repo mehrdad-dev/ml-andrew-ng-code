@@ -32,6 +32,8 @@ p {
   font-family: Vazir !important;
   font-weight: normal;
   font-style: normal;
+  text-align:justify;  
+  text-justify:inter-word;
 }
 ol {
   list-style-type: persian;
@@ -180,8 +182,7 @@ input[type="time"]:focus,
 input[type="week"]:focus,
 select[multiple="multiple"]:focus {
   border-color: #00bdf3;
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06),
-    0 0 5px rgba(0, 169, 218, 0.7);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(0, 169, 218, 0.7);
 }
 #header-wrapper {
   background: #8451a1;
@@ -567,13 +568,14 @@ h1 {
   /* text-transform: uppercase; */
   color: #222;
   margin-bottom: 50px;
-  font-weight: 200;
+  font-weight: 10px;
 }
+
 blockquote {
   border-left: 10px solid #f0f2f4;
 }
 blockquote p {
-  font-family: Vazir !important;
+  fontfamily: Vazir !important;
   font-size: 1.1rem;
   color: #999;
 }
@@ -909,8 +911,7 @@ td {
   z-index: 1000000;
   display: none;
   padding: 5px 8px;
-  font: normal normal 11px/1.5 "Work Sans", "Helvetica", "Tahoma", "Geneva",
-    "Arial", sans-serif;
+  font: normal normal 11px/1.5 "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   color: #fff;
   text-align: center;
   text-decoration: none;
@@ -1235,11 +1236,12 @@ pre .copy-to-clipboard:hover {
 
 #sidebar ul li .read-icon {
   display: none;
-  float: right;
+  float: left;
   font-size: 13px;
   min-width: 16px;
   margin: 4px 0 0 0;
   text-align: right;
+  margin-left: 5px;
 }
 #sidebar ul li.visited > a .read-icon {
   color: #00bdf3;
@@ -1273,4 +1275,42 @@ code.has-jax {
   text-align: center;
   margin-top: -35px;
   margin-bottom: 40px;
+}
+
+.illo {
+  /* display: block; */
+  width: 100%;
+  background: rgb(255, 255, 255);
+  cursor: move;
+  /* text-align: center; */
+  margin-right: 250px;
+}
+
+.h4_menu {
+  color: #ffffff;
+  font-size: 21px;
+}
+
+.graduation_cap {
+  margin-left: 5px;
+}
+
+.book {
+  margin-left: 5px;
+}
+
+.question {
+  margin-left: 5px;
+}
+
+.heart {
+  margin-left: 5px;
+}
+
+.plus_square {
+  margin-left: 5px;
+}
+
+.info {
+  margin-left: 5px;
 }

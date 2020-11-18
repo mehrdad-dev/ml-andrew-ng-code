@@ -1,5 +1,5 @@
 ---
-title: "Feature Scaling"
+title: "مقیاس بندی ویژگی"
 date: 2020-09-09T21:48:49+04:30
 draft: false
 weight : 30
@@ -23,9 +23,9 @@ $$ x_2 = \text {number of bedrooms(1-5) }$$
 پیدا کردن مینیمم کلی در این تابع هزینه زمان زیادی 
 را باید صرف کند!
 
-![image66.png](../images/image66.png?width=15pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image66.png?width=15pc)
 
-**که اینجا از تکنیک Feature Scaling  استفاده می‌کنیم!**
+**که اینجا از تکنیک <span class="top-dict" data-tipso="Feature Scaling">مقیاس بندی ویژگی</span>  استفاده می‌کنیم!**
 
 برای انجام این کار باید مقدار متغیر $x$ را بر تفـــاضـل 
 کران بالا و پایین خودش تقسیم کنیم.
@@ -36,7 +36,7 @@ $$ x_2 = \text {number of bedrooms(1-5) }$$
 $$ x_1 =  \frac {\text {size(feet^2)} } {2000}$$
 $$ x_2 = \frac  {\text {number of bedrooms} } {(5-1)}$$
 
-![image70.png](../images/image70.png?width=15pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/image70.png?width=15pc)
 
 همچنین روش مشابه دیگری برای انجام این کار به 
 اسم mean normalization داریم.
@@ -46,7 +46,7 @@ $$ x_2 = \frac  {\text {number of bedrooms} } {(5-1)}$$
 $$ x_i := \frac{x_i - \mu_i} {s_i} $$
 
 {{% notice note %}}
-نکته: همچنین در مخرج کسر مـی‌توانیم از مــقدار
+همچنین در مخرج کسر مـی‌توانیم از مــقدار
 انحراف معیار استفاده کنیم، که البته نتایج متفاوتی 
 با هم دارند.
 {{% /notice %}}

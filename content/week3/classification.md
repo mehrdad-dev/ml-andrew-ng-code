@@ -5,7 +5,7 @@ draft: false
 weight : 20
 ---
 
-### رگرسیون لجستیک
+### <span class="top-dict" data-tipso="logistic regression">رگرسیون لجستیک</span>
 
 اینجا از مسائل رگرسیون به مسائل طبقه بندی
 می‌رویم، اما با اسم رگرسیون لجستیک گیج نشوید!
@@ -14,7 +14,7 @@ weight : 20
 
 ![image86.png](../images/image86.png?width=18pc)
 
-### طبقه بندی دودویی
+### <span class="top-dict" data-tipso="binary classification">طبقه دودویی</span>
 
 به جای اینکه خروجی یعنی $y$  مقداری پیوسته در یک
 محدوده باشد، فقط $0$ یا $1$ است، یعنی : $ y \in \text{{0,1}} $
@@ -48,7 +48,7 @@ $$ h_\theta(x) = g(\theta^T x)  \hspace{2cm} 0 \leqslant h_\theta(x) \leqslant 1
 
 $$ g(z) = \frac{1}{1 + e^{-z}} \hspace{2cm} z = \theta^Tx $$
 
-که به این فرم جدید **تابع سیگموئید** یا **تابع لجستیک**
+که به این فرم جدید **تابع <span class="top-dict" data-tipso="sigmoid">سیگموئید</span>** یا **تابع لجستیک**
 می‌گوییم.
 
 
@@ -72,7 +72,7 @@ $$ h_\theta(x)  = P (y=1 | x;\theta) =  1 - P (y = 0 | x;\theta) $$
 $$ P (y=0 | x;\theta) + P (y=1 | x;\theta) = 1 $$
 
 
-### مرز تصمیم گیری 
+### <span class="top-dict" data-tipso="decision boundary">مرز تصمیم گیری</span> 
 
 برای مجزا کردن کلاس های $0$ و $1$ طبقه بندی باید
 خروجی تابع فرضیه را به این صورت تبدیل کنیم:
@@ -80,7 +80,7 @@ $$ P (y=0 | x;\theta) + P (y=1 | x;\theta) = 1 $$
 $$ h_\theta(x) \geqslant 0.5 \rightarrow y = 1 \hspace{2cm} h_\theta(x) < 0.5  \rightarrow  y = 0  $$
 
 نحوه عملکرد تابع لجستیکی $g$ ما به این صورت است
-که وقتی ورودی آن بزرگتر یا برابر صفر باشد، خروجی
+که وقتی ورودی آن بزرگتر یا برابر 0 باشد، خروجی
 آن بزرگ تر یا مساوی $0.5$ می‌شود:
 
 $$ g(z) \geqslant 0.5 $$

@@ -14,3 +14,7 @@ weight: 90
 ### تمرین برنامه نویسی
 - Programming Exercise 4: Neural Networks Learning - [pdf](../files/ex4.pdf) | [problem](../files/machine-learning-ex4.zip)
   
+
+### زیر نویس ها
+- [انگلیسی](../files/WEEK5-English-Subtitle.zip)
+- [ هننوز ساخته نشده - فارسی]()

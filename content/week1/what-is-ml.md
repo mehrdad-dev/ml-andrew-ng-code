@@ -8,7 +8,7 @@ author: Mehrdad Mohammadian
 
 **دو تعریف از <span class="top-dict" data-tipso="Machine Learning">یادگیری ماشین</span> ارائه شده است:**
 
-> **Arthur Samuel**: رشته مطالعاتی که به کامپیوتر ها این توانایی را می‌دهد
+**Arthur Samuel**: رشته مطالعاتی که به کامپیوتر ها این توانایی را می‌دهد
 که بدون برنامه نویسی صریح یاد بگیرند.
 
 {{% notice warning %}}
@@ -18,7 +18,7 @@ author: Mehrdad Mohammadian
 اما تعریفی مدرن تر ...
 
 
-> **Tom Mitchell**: به یک برنامه کامپیوتری گفته می‌شود که:
+**Tom Mitchell**: به یک برنامه کامپیوتری گفته می‌شود که:
 برای یادگیری از تجربه E
 با توجه به برخی از وظایف به عنوان T
 و اندازه گیری عملکرد با P
@@ -28,7 +28,7 @@ author: Mehrdad Mohammadian
 
 ####  مثلا بازی چکرز!
 
-![game](../images/game.jpg?width=15pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/game.jpg?width=15pc)
 
 | نماد |  |
 | ------:| -----------:|

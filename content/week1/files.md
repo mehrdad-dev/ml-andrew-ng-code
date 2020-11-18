@@ -12,3 +12,7 @@ weight : 110
 
 ### غلط نامه
 - Errata - [pdf](../files/errata.pdf)
+
+### زیر نویس ها
+- [انگلیسی](../files/WEEK1-English-Subtitle.zip)
+- [ هننوز ساخته نشده - فارسی]()

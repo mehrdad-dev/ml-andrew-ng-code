@@ -114,7 +114,7 @@ weight : 10
 
 <span class="top-dict" data-tipso="output layer">لایه خروجی</span>
 
-<span class="top-dict" data-tipso="hidden layers">لایه پنهان</span>
+<span class="top-dict" data-tipso="hidden layer">لایه پنهان</span>
 
 <span class="top-dict" data-tipso="element-wise">عنصر به عنصر</span>
 
@@ -150,8 +150,8 @@ weight : 10
 <span class="top-dict" data-tipso="predictor">پیش بینی کننده</span>
 
 <span class="top-dict" data-tipso="learning rate">نرخ یادگیری</span>
-<span class="top-dict" data-tipso="local minimum">مینیمم موضعی</span>
-<span class="top-dict" data-tipso=""></span>
-<span class="top-dict" data-tipso=""></span>
+<span class="top-dict" data-tipso="local minimum">مینیمم محلی</span>
+<span class="top-dict" data-tipso="label">برچسب</span>
+<span class="top-dict" data-tipso="Feature Scaling">مقیاس بندی ویژگی</span>
 <span class="top-dict" data-tipso=""></span>
 <span class="top-dict" data-tipso=""></span>

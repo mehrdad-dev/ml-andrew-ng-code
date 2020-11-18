@@ -15,3 +15,6 @@ weight: 110
 ### تمرین برنامه نویسی
 - Programming Exercise 2: Logistic Regression - [pdf](../files/ex2.pdf) | [problem](../files/machine-learning-ex2.zip)
 
+### زیر نویس ها
+- [انگلیسی](../files/WEEK3-English-Subtitle.zip)
+- [ هننوز ساخته نشده - فارسی]()

@@ -27,7 +27,7 @@ $$(x_i, y_i) \Rightarrow x_1= 2104, y_1 = 460$$
 اینجا منظور از $i$  اندیس داده در جدول است.
 {{% /notice %}}
 
-![h-function.png](../images/h-function.png?width=17pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/h-function.png?width=17pc)
 
 همانطور که می‌بینید هدف ما اینکه با دادن 
 <span class="top-dict" data-tipso="training set">مجموعه آموزشی</span>
@@ -46,7 +46,7 @@ $x$ همان تک متغیر مدل است،
 $ \theta_0, \theta_1 $ نیز <span class="top-dict" data-tipso="parameter">پارامتر</span>
 های مدل هستند.
 
-![red-line.png](../images/red-line.png?width=17pc)
+![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/red-line.png?width=17pc)
 
 خط قرمز همان تابع $h$ است
 که برای پیش بینی قیمت 

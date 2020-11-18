@@ -2,7 +2,7 @@
 :root{
     
     --MAIN-TEXT-color:#323232; /* Color of text by default */
-    --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
+    --MAIN-TITLES-TEXT-color: #000000; /* Color of titles h2-h3-h4-h5 */
     --MAIN-LINK-color:#0B379B; /* Color of links */
     --MAIN-LINK-HOVER-color:#1453e7; /* Color of hovered links */
     --MAIN-ANCHOR-color: #20272b; /* color of anchors on titles */
@@ -34,7 +34,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: none;
 }
 
-h2, h3, h4, h5 {
+h2, h3, h5 {
     color: var(--MAIN-TITLES-TEXT-color) !important;
 }
 

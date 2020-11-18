@@ -2,7 +2,7 @@
 title = "سوالات متداول افراد "
 date =  2020-10-03T13:28:44+03:30
 weight = 70
-pre = "<i class='fa fa-question' ></i>"
+pre = "<i class='fa fa-question question' ></i>"
 +++
 
 لیستی از سوالات پرتکرار موجود که افراد مختلف می‌پرسند:

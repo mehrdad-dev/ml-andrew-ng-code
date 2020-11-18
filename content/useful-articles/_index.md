@@ -2,22 +2,27 @@
 title =  "منابع مفید "
 date = 2020-09-10T17:04:49+04:30
 weight = 75
-pre = "<i class='fa fa-plus-square' ></i>"
+pre = "<i class='fa fa-plus-square plus_square' ></i>"
 +++
 
 **این صفحه در حال ویرایش و کامل شدن است ...**
 
 لیست منابع موجود:
 - [افراد تاثیر گذار](#افراد-تاثیر-گذار)
-- کانال ها و صفحات اجماعی:
+- کانال ها و صفحات اجتماعی:
     - [تلگرام](#تلگرام)
     - [یوتیوب](#یوتیوب)
     - [توییتر](#توییتر)
     - [اینستاگرام](#اینستاگرام)
     <!-- - [لایو های ضبط شده](#لایو-های-ضبط-شده) -->
 - [وب سایت ها و وبلاگ ها](#وب-سایت-ها-و-وبلاگ-ها)
+- [دیتاست](#دیتاست)
+- [کنفرانس](#کنفرانس)
 - دوره های مفید دیگر:
+    - [Machine Learning](#machine-learning)
     - [Deep Learning](#deep-learning)
+    - [Probability](#probability)
+    - [Linear Algebra](#linear-algebra)
     - [Data Science](#data-science)
 
 ### افراد تاثیر گذار
@@ -28,17 +33,21 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [سروناز چوبدار](https://www.instagram.com/datascience_with_sarvi/)
 - [سعید چوپانی](https://www.instagram.com/saeed_choobani/)
 - [سید ناصر رضوی](https://www.instagram.com/seyed_naser_razavi/)
-- [کوشیار عظیمیان](https://www.instagram.com/kooshiar/)
 - [شیدا وانوئی](https://www.instagram.com/sheida.vanoei/)
 - [علیرضا اخوان پور](https://www.instagram.com/alirezaweb/)
 - [علی صادقی عقیلی](https://www.instagram.com/thedatascientist/)
+- [کوشیار عظیمیان](https://www.instagram.com/kooshiar/)
 - [مریم رهبر عالم](https://www.instagram.com/dr.maryrahbar/)
 - [مهدی حبیب زاده](https://www.instagram.com/nimahm1980/)
 
-افراد تاثیر گذار انگلیسی زبان:
-- [Andrew Ng](https://twitter.com/AndrewYNg)
-- [Yann LeCun](https://twitter.com/ylecun)
+افراد تاثیر گذار انگلیسی زبان به ترتیب الفبا:
+- [Afshine Amidi](https://twitter.com/afshinea)
 - [Alfredo Canziani](https://twitter.com/alfcnz)
+- [Andrew Ng](https://twitter.com/AndrewYNg)
+- [Ian Goodfellow](https://twitter.com/goodfellow_ian)
+- [Shervine Amidi](https://twitter.com/shervinea)
+- [Yann LeCun](https://twitter.com/ylecun)
+
 
 ### تلگرام
 - [اطلاع رسانی از رویداد های حوزه هوش مصنوعی](https://t.me/AI_Events)
@@ -52,6 +61,11 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Pythonic AI](https://t.me/pythonicAI)
 - [کتابخانه هوش مصنوعی](https://t.me/ailib)
 - [arXiv](https://t.me/ai_python_arxiv)
+- [هوش مصنوعی |یادگیری ماشین| علم داده](https://t.me/Ai_Tv)
+- [AI+‌‌](https://t.me/aiandbigdata)
+- [ML_DEEP](https://t.me/MLIPUN)
+- [Machine learning books and papers](https://t.me/Machine_learn)
+
 
 ### یوتیوب
 - [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
@@ -60,14 +74,54 @@ pre = "<i class='fa fa-plus-square' ></i>"
 - [Alexander Amini](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
 - [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
 
+
 ### توییتر
 
 
 ### اینستاگرام
+- [ai.eng](https://www.instagram.com/ai.eng/)
+
 
 ### وب سایت ها و وبلاگ ها
+- [KDnuggets](https://www.kdnuggets.com/)
+
+
+### دیتاست
+
+- [Dataset Search Google](https://datasetsearch.research.google.com/)
+- [Machine learning datasets](https://www.datasetlist.com/)
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [Academic Torrents](https://academictorrents.com/)
+- [Kaggle Dataset](https://www.kaggle.com/datasets)
+
+
+### کنفرانس
+- [ACM Conference on Recommender Systems](https://recsys.acm.org/)
+- [Signal Processing and Intelligent Systems](http://www.icspis.ir/)
+- [AAAI Conference](https://www.aaai.org/Conferences/conferences.php)
+- [ICML Conference](https://icml.cc/)
+- [KDD Conference](https://www.kdd.org/conferences)
+- [NIPS Conference](https://nips.cc/)
+- [SIGMOD Conference](https://sigmod.org/)
+- [WSDM Conference](http://www.wsdm-conference.org/)
+- [CVPR Conference](#)
+- [ICDE Conference](#)
+
+
+### Machine Learning
+- [Elements of Ai](https://course.elementsofai.com/)
 
 ### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)
+- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [CS230 Deep Learning](http://cs230.stanford.edu/)
+
+### Probability
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage)
+
+
+### Linear Algebra
+-[MIT Prof. Gilbert Strang Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 
 ### Data Science

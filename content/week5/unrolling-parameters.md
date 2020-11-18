@@ -5,6 +5,8 @@ draft: false
 weight: 40
 ---
 
+### <span class="top-dict" data-tipso="unroll">باز کردن</span> پارامتر ها
+
 ما در شبکه های عصبی در حال کار با مجموعه ای از ماتریس ها هستیم:
 $$
 \begin{align*} \Theta^{(1)}, \Theta^{(2)}, \Theta^{(3)}, \dots \newline D^{(1)}, D^{(2)}, D^{(3)}, \dots \end{align*}

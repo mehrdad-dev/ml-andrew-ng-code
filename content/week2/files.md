@@ -15,3 +15,7 @@ weight : 70
 ### تمرین برنامه نویسی
 - Programming Exercise 1: Linear Regression - [pdf](../files/ex1.pdf) | [problem](../files/machine-learning-ex1.zip)
   
+
+### زیر نویس ها
+- [انگلیسی](../files/WEEK2-English-Subtitle.zip)
+- [ هننوز ساخته نشده - فارسی]()

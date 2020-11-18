@@ -2,7 +2,7 @@
 title = " هفته سوم"
 date = 2020-09-05T18:30:44+04:30
 weight = 15
-pre = "<i class='fa fa-graduation-cap ' ></i>"
+pre = "<i class='fa fa-graduation-cap graduation_cap' ></i>"
 +++
 
 این هفته با رگرسیون لجستیک آشنا می‌شویم که

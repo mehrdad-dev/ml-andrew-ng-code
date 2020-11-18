@@ -12,7 +12,7 @@ weight: 80
 
 برای مشاهده ویدئو این پروژه در YouTube بر روی تصویر زیر کلیک کنید:
 
-[![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](http://img.youtube.com/vi/IaoIqVMd6tc/0.jpg)](http://www.youtube.com/watch?v=IaoIqVMd6tc "ALVINN")
+[![دوره یادگیری ماشین دانشگاه استنفورد به فارسی](../images/cover-youtube.jpg?width=30pc&classes=shadow)](http://www.youtube.com/watch?v=IaoIqVMd6tc "ALVINN")
 
 
 

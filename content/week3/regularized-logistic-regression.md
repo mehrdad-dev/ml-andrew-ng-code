@@ -5,10 +5,10 @@ draft: false
 weight: 100
 ---
 
-می‌توانیم Logistic Regression را به روشی مشابه رگرسیون خطی
+می‌توانیم <span class="top-dict" data-tipso="logistic regression">رگرسیون لجستیک</span> را به روشی مشابه رگرسیون خطی
 منظم سازی کنیم، که در نتیجه می‌توانیم از overfitting پرهیز کنیم.
 
-### Cost Function
+### تابع هزینه
 
 
 به یاد بیاورید که تابع هزینه ما برای رگرسیون لجستیک به این شکل بود:

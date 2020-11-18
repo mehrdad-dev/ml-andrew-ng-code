@@ -23,16 +23,16 @@ weight: 10
 
 یک مجموعه داده از نمونه های آموزشی را می‌توانیم به دو مجموعه جدا تقسیم کنیم:
 
-۱. مجموعه آموزش
+۱. <span class="top-dict" data-tipso="training set">مجموعه آموزش</span>
 
-۲. مجموعه تست
+۲. <span class="top-dict" data-tipso="test set">مجموعه آزمون</span>
 
 روش جدید با استفاده از این دو مجموعه به صورت زیر خواهد بود:
 1. یادگیری $\Theta$ و کمینه کردن مقدار $J_{train}\left ( \Theta  \right )$ با استفاده از مجموعه آموزشی
 
-2. محاسبه خطای مجموعه تست $J_{test}\left ( \Theta  \right )$
+2. محاسبه خطای مجموعه آزمون $J_{test}\left ( \Theta  \right )$
 
-### محاسبه خطای مجموعه تست 
+### محاسبه خطای مجموعه آزمون 
 1. برای رگرسیون خطی: 
 $$
 J_{test\left ( \Theta  \right )} = \frac{1}{2m_{test}}\sum_{i=1}^{m_{test}}\left ( h_{\Theta }\left ( x_{test}^{(i) } \right ) - y_{test}^{(i)} \right )^{2}
@@ -43,11 +43,11 @@ $$
 err(h_\Theta(x),y) = \begin{matrix} 1 & \mbox{if } h_\Theta(x) \geq 0.5\ and\ y = 0\ or\ h_\Theta(x) < 0.5\ and\ y = 1\newline 0 & \mbox otherwise \end{matrix}
 $$
 
-این به ما یک نتیجه دودویی به صورت 0 یا 1 می‌دهد، که بر اساس طبقه بندی غلط است.
+این به ما یک نتیجه دودویی به صورت 0 یا 1 می‌دهد، که بر اساس <span class="top-dict" data-tipso="misclassification">طبقه بندی غلط</span> است.
 
-میانگین خطای تست، برای مجموعه داده تست به این صورت است:
+میانگین خطای آزمون، برای مجموعه داده آزمون به این صورت است:
 $$
 Test Error = \frac{1}{m_{test}}\sum_{i=1}^{m_{test}}err(h_{\Theta }(x_{test}^{(i)}), y_{test}^{(i)})
 $$
 
-که این به ما نسبت داده های تستی (test data) که در طبقه بندی غلط قرار دارند را می‌دهد.
+که این به ما نسبت داده های آزمونی که در طبقه بندی غلط قرار دارند را می‌دهد.

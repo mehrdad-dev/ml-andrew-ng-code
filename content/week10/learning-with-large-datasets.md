@@ -1,7 +1,6 @@
 ---
 title: "یادگیری با مجموعه داده های بزرگ"
 date: 2020-11-29T12:38:32+03:30
-draft: true
 draft: false
 weight: 10
 ---

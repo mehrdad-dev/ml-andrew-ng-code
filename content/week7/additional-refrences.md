@@ -5,5 +5,5 @@ draft: false
 weight: 60
 ---
 
-<li style="direction:ltr">"An Idiot's Guide to Support Vector Machines": 
-<a href="http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf">http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf</a></li>
+"An Idiot's Guide to Support Vector Machines":
+[http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)

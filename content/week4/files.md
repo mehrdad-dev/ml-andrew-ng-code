@@ -14,3 +14,7 @@ weight: 80
 ### تمرین برنامه نویسی
 - Programming Exercise 3: Multi-class Classification and Neural Networks - [pdf](../files/ex3.pdf) | [problem](../files/machine-learning-ex3.zip)
   
+
+### زیر نویس ها
+- [انگلیسی](../files/WEEK4-English-Subtitle.zip)
+- [ هننوز ساخته نشده - فارسی]()

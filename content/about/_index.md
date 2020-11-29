@@ -5,6 +5,10 @@ weight = 85
 pre = "<i class='fa fa-info info' ></i>"
 +++
 
+این وب سایت توسط یک مشارکت جمعی ترجمه شده و سورس کد آن در گیت هاب به طور رایگان در دسترس عموم قرار گرفته است.
+
+گیت هاب: https://github.com/mehrdad-dev/ml-andrew-ng-code
+
 ### مشارکت کنندگان
 
 <style>
@@ -45,7 +49,6 @@ pre = "<i class='fa fa-info info' ></i>"
 }
 </style>
 
-
 <!-- <table> -->
   <tr>
     <td align="center"><a href="https://github.com/mehrdad-dev"><img class="avatarcont" src="https://avatars2.githubusercontent.com/u/40211374?v=4"  alt=""/><sub><p class="pcont">mehrdad mohammadian</p></sub></a>
@@ -58,4 +61,4 @@ pre = "<i class='fa fa-info info' ></i>"
 
 
 ### منابع استفاده شده
-
+فایل های رسمی خود دوره.

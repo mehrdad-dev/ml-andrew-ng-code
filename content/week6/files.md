@@ -15,3 +15,7 @@ weight: 120
 ### تمرین برنامه نویسی
 - Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance  - [pdf](../files/ex5.pdf) | [problem](../files/machine-learning-ex5.zip)
   
+
+### زیر نویس ها
+- [انگلیسی](../files/WEEK6-English-Subtitle.zip)
+- [ هننوز ساخته نشده - فارسی]()

@@ -18,6 +18,7 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 - [وب سایت ها و وبلاگ ها](#وب-سایت-ها-و-وبلاگ-ها)
 - [دیتاست](#دیتاست)
 - [کنفرانس](#کنفرانس)
+- [کتاب](#کتاب)
 - دوره های مفید دیگر:
     - [Machine Learning](#machine-learning)
     - [Deep Learning](#deep-learning)
@@ -108,13 +109,19 @@ pre = "<i class='fa fa-plus-square plus_square' ></i>"
 - [ICDE Conference](#)
 
 
+### کتاب
+- [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
+- [An Introduction to Deep Reinforcement Learning by Vincent Francois-Lavet, Peter Henderson and etc](https://arxiv.org/pdf/1811.12560.pdf)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
+
+
 ### Machine Learning
-- [Elements of Ai](https://course.elementsofai.com/)
+- [Elements of AI](https://course.elementsofai.com/)
 
 ### Deep Learning
 - [دوره یادگیری عمیق با پایتورچ دانشگاه نیویورک توسط Yann LeCun و Alfredo Canziani (در حال ترجمه به فارسی)](https://atcold.github.io/pytorch-Deep-Learning/)
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
-- [Dive into Deep Learning](https://d2l.ai/index.html)
 - [CS230 Deep Learning](http://cs230.stanford.edu/)
 
 ### Probability

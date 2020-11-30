@@ -68,3 +68,9 @@ author: Mehrdad Mohammadian
 </a>
 
 به پاس قدردانی از مشارکت شما برای تولید محتوای آزاد و کمک به جامعه فارسی زبان در صفحه درباره از شما تشکر خواهد شد ❤️
+
+
+
+تمامی حقوق این وب سایت تحت
+[لایسنس GNU General Public License v3.0](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/LICENSE)
+محفوظ است.

@@ -62,3 +62,10 @@ pre = "<i class='fa fa-info info' ></i>"
 
 ### منابع استفاده شده
 فایل های رسمی خود دوره.
+
+
+
+
+تمامی حقوق این وب سایت تحت
+[لایسنس GNU General Public License v3.0](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/LICENSE)
+محفوظ است.

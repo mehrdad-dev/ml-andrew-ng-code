@@ -473,9 +473,9 @@ function disableSelection(target) {
     target.style.cursor = "default";
 }
 
-// $(document).ready(function () {
-//     disableSelection(document.body);
-// });
+$(document).ready(function () {
+    disableSelection(document.body);
+});
 
 
 jQuery('.top-dict').tipso({

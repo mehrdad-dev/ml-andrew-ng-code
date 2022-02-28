@@ -61,5 +61,12 @@ https://github.com/mehrdad-dev/ml-andrew-ng
 ## مجوز
 [LICENSE](https://github.com/mehrdad-dev/ml-andrew-ng-code/blob/master/LICENSE)
 
+ </div>
+
+ <div align="center">
+
+ 
+[![Star History Chart](https://api.star-history.com/svg?repos=mehrdad-dev/ml-andrew-ng-code&type=Date)](https://star-history.com/#mehrdad-dev/ml-andrew-ng-code&Date)
 
 </div>
+
